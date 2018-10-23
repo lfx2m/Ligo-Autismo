@@ -98,3 +98,9 @@ Lands
 |Double Colour		|   	|   	|B   	|   		|   		|   	|   		|   	|   	|   	|
 |Mana Swappers		|   	|   	|   	|   		|   		|   	|   		|   	|   	|   	|
 |Guildgates		|   	|   	|   	|   		|   		|   	|   		|   	|   	|   	|
+
+A = Photo Candidate is added to Photos-for-Cards
+
+B = 1.0 Card is added to V1-Cards
+
+C = 2.0 Card is added to V2-Cards
