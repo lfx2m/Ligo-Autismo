@@ -93,11 +93,11 @@ Blue
 Lands
 ==========
 
-|   			|Dimir	|Gruul	|Boros	|Azorius	|Golgari	|Izzet	|Selesnya	|Rakdos	|Orzov	|Simic	|
-|---			|---	|---	|---	|---		|---		|---	|---		|---	|---	|---	|
-|Double Colour		|   	|   	|B   	|   		|   		|   	|   		|   	|   	|   	|
-|Mana Swappers		|   	|   	|   	|   		|   		|   	|   		|   	|   	|   	|
-|Guildgates		|   	|   	|   	|   		|   		|   	|   		|   	|   	|   	|
+|   			      |Dimir	|Gruul	|Boros	|Azorius	|Golgari	|Izzet	|Selesnya	|Rakdos	|Orzov	|Simic	|
+|---			      |---	  |---	  |---	  |---		  |---		  |---	  |---		  |---	  |---	  |---	  |
+|Double Colour	|   	  |   	  |B   	  |   		  |   		  |   	  |   		  |   	  |   	  |   	  |
+|Mana Swappers	|   	  |   	  |   	  |   		  |   		  |   	  |   		  |   	  |   	  |   	  |
+|Guildgates		  |   	  |   	  |   	  |   		  |   		  |   	  |   		  |   	  |   	  |   	  |
 
 A = Photo Candidate is added to Photos-for-Cards
 
