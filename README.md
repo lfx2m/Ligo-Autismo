@@ -95,9 +95,9 @@ Lands
 
 |   			      |Dimir	|Gruul	|Boros	|Azorius	|Golgari	|Izzet	|Selesnya	|Rakdos	|Orzov	|Simic	|
 |---			      |---	  |---	  |---	  |---		  |---		  |---	  |---		  |---	  |---	  |---	  |
-|Double Colour	|   	  |   	  |B   	  |   		  |   		  |   	  |   		  |   	  |   	  |   	  |
-|Mana Swappers	|   	  |   	  |   	  |   		  |   		  |   	  |   		  |   	  |   	  |   	  |
-|Guildgates		  |   	  |   	  |   	  |   		  |   		  |   	  |   		  |   	  |   	  |   	  |
+|Double Colour	|B   	  |B   	  |B   	  |   		  |B   		  |B   	  |B   		  |B   	  |   	  |B   	  |
+|Mana Swappers	|   	  |   	  |B   	  |   		  |   		  |   	  |B   		  |   	  |   	  |B   	  |
+|Guildgates		  |B   	  |   	  |   	  |   		  |   		  |   	  |   		  |   	  |   	  |   	  |
 
 A = Photo Candidate is added to Photos-for-Cards
 
