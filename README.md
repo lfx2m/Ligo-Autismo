@@ -95,6 +95,6 @@ Lands
 
 |   			|Dimir	|Gruul	|Boros	|Azorius	|Golgari	|Izzet	|Selesnya	|Rakdos	|Orzov	|Simic	|
 |---			|---	|---	|---	|---		|---		|---	|---		|---	|---	|---	|
-|Double Colour Lands	|   	|   	|   	|   		|   		|   	|   		|   	|   	|   	|
+|Double Colour		|   	|   	|   	|   		|   		|   	|   		|   	|   	|   	|
 |Mana Swappers		|   	|   	|   	|   		|   		|   	|   		|   	|   	|   	|
 |Guildgates		|   	|   	|   	|   		|   		|   	|   		|   	|   	|   	|
