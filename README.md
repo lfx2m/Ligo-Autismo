@@ -15,6 +15,20 @@ Red	Autism
 
 Green	3D
 
+Lands
+==========
+
+|                             |Dimir    |Gruul  |Boros  |Azorius        |Golgari        |Izzet  |Selesnya       |Rakdos |Orzov  |Simic  |
+|---                          |---        |---    |---    |---            |---            |---    |---            |---    |---    |---    |
+|Double Colour  |B        |B      |B      |               |B              |B      |B              |B      |       |B      |
+|Mana Swappers  |         |       |B      |               |               |       |B              |       |       |B      |
+|Guildgates               |B      |       |       |               |               |       |               |       |       |       |
+
+A = Photo Candidate is added to Photos-for-Cards
+
+B = 1.0 Card is added to V1-Cards
+
+C = 2.0 Card is added to V2-Cards
 
 Kingdoms
 ==========
@@ -89,18 +103,3 @@ Simic Combine - Boski
 ----------
 Green
 Blue
-
-Lands
-==========
-
-|   			      |Dimir	|Gruul	|Boros	|Azorius	|Golgari	|Izzet	|Selesnya	|Rakdos	|Orzov	|Simic	|
-|---			      |---	  |---	  |---	  |---		  |---		  |---	  |---		  |---	  |---	  |---	  |
-|Double Colour	|B   	  |B   	  |B   	  |   		  |B   		  |B   	  |B   		  |B   	  |   	  |B   	  |
-|Mana Swappers	|   	  |   	  |B   	  |   		  |   		  |   	  |B   		  |   	  |   	  |B   	  |
-|Guildgates		  |B   	  |   	  |   	  |   		  |   		  |   	  |   		  |   	  |   	  |   	  |
-
-A = Photo Candidate is added to Photos-for-Cards
-
-B = 1.0 Card is added to V1-Cards
-
-C = 2.0 Card is added to V2-Cards
