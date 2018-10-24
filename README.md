@@ -2,18 +2,13 @@
 | Ligo Autismo Master Plan |
 |==========================|
 
-Colours
-==========
+Currently Working On:
+=====================
 
-Black	Smokes
+2 colour uber lands 
 
-Blue	Procrastination
-
-White	Vodka
-
-Red	Autism
-
-Green	3D
+Azorius
+Orzov
 
 Lands
 ==========
@@ -29,6 +24,19 @@ A = Photo Candidate is added to Photos-for-Cards
 B = 1.0 Card is added to V1-Cards
 
 C = 2.0 Card is added to V2-Cards
+
+Colours
+==========
+
+Black Smokes
+
+Blue	Procrastination
+
+White	Vodka
+
+Red	  Autism
+
+Green	3D
 
 Kingdoms
 ==========
