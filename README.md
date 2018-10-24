@@ -10,6 +10,8 @@ Currently Working On:
 Azorius
 Orzov
 
+Rest of guildgates
+
 Lands
 ==========
 
@@ -17,7 +19,7 @@ Lands
 |---            |---      |---    |---    |---            |---            |---    |---            |---    |---    |---    |
 |Double Colour  |B        |B      |B      |               |B              |B      |B              |B      |       |B      |
 |Mana Swappers  |B        |       |B      |               |               |       |B              |       |       |B      |
-|Guildgates     |B        |       |B      |B              |               |       |               |       |B      |       |
+|Guildgates     |B        |       |B      |B              |               |       |               |       |B      |B      |
 
 A = Photo Candidate is added to Photos-for-Cards 
     First, add photos here so a rework is possible.
