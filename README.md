@@ -50,8 +50,11 @@ Sacrifice
 BLUE
 
 Flying--
+
 Return to Hand--
-Draw Card--
+
+Draw Card--Selwuch
+
 Scry
 
 WHITE
