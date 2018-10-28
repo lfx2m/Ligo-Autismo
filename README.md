@@ -33,36 +33,35 @@ C = 2.0 Card is added to V2-Cards
 Colours
 ==========
 
-Black Smokes 
+BLACK
 
 Deathtouch
 Lifelink
 Discard
 Sacrifice
 
+BLUE
 
-Blue	Procrastination
----------------------
 Flying--
 Return to Hand--
 Draw Card--
 Scry
 
-White	Vodka
+WHITE
 
 Vigilance--
 Flash--
 Exalted--
 First Strike
 
-Red	  Autism
+RED
 
 Haste--
 Double Strike--
 Menace--
 Deal Demage
 
-Green	3D
+GREEN
 
 Trample--
 Shroud--
