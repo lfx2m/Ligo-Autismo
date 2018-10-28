@@ -64,7 +64,7 @@ Deal Demage
 GREEN
 
 Trample--
-Shroud--
+Haxproof--
 Add Mana--
 Reach
 
