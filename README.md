@@ -35,9 +35,9 @@ Colours
 
 BLACK
 
-Deathtouch
-Lifelink
-Discard
+Deathtouch--
+Lifelink--
+Discard--
 Sacrifice
 
 BLUE
