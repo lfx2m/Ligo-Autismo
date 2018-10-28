@@ -5,6 +5,12 @@
 Currently Working On:
 =====================
 
+Random People We know 
+
+{1}/{20}
+
+1.Selwuch
+
 Selwuch to Oracle
 
 {(1)(U)(U)}
