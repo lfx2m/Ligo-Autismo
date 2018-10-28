@@ -42,41 +42,53 @@ Colours
 
 BLACK
 
-Deathtouch--
-Lifelink--
-Discard--
-Sacrifice
+Deathtouch --
+
+Lifelink -- 
+
+Discard -- 
+
+Sacrifice -- 
 
 BLUE
 
-Flying--
+Flying -- 
 
-Return to Hand--
+Return to Hand -- 
 
-Draw Card--Selwuch
+Draw Card -- Selwuch
 
-Scry
+Scry -- 
 
 WHITE
 
-Vigilance--
-Flash--
-Exalted--
-First Strike
+Vigilance --
+
+Flash -- 
+
+Exalted -- 
+
+First Strike -- 
 
 RED
 
-Haste--
-Double Strike--
-Menace--
-Deal Demage
+Haste -- 
+
+Double Strike -- 
+
+Menace -- 
+
+Deal Demage --
 
 GREEN
 
-Trample--
-Haxproof--
-Add Mana--
-Reach
+Trample -- 
+
+Haxproof -- 
+
+Add Mana -- 
+
+Reach -- 
 
 Kingdoms
 ==========
