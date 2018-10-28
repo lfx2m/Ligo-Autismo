@@ -42,31 +42,31 @@ Sacrifice
 
 
 Blue	Procrastination
-
-Flying
-Return to Hand
-Draw Card
+---------------------
+Flying--
+Return to Hand--
+Draw Card--
 Scry
 
 White	Vodka
 
-Vigilance
-Flash
-Exalted
+Vigilance--
+Flash--
+Exalted--
 First Strike
 
 Red	  Autism
 
-Haste
-Double Strike
-Menace
+Haste--
+Double Strike--
+Menace--
 Deal Demage
 
 Green	3D
 
-Trample
-Shroud
-Add Mana
+Trample--
+Shroud--
+Add Mana--
 Reach
 
 Kingdoms
