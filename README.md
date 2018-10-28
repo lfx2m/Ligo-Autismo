@@ -33,15 +33,41 @@ C = 2.0 Card is added to V2-Cards
 Colours
 ==========
 
-Black Smokes
+Black Smokes 
+
+Deathtouch
+Lifelink
+Discard
+Sacrifice
+
 
 Blue	Procrastination
 
+Flying
+Return to Hand
+Draw Card
+Scry
+
 White	Vodka
+
+Vigilance
+Flash
+Exalted
+First Strike
 
 Red	  Autism
 
+Haste
+Double Strike
+Menace
+Deal Demage
+
 Green	3D
+
+Trample
+Shroud
+Add Mana
+Reach
 
 Kingdoms
 ==========
@@ -65,6 +91,7 @@ Hexsproof
 Detain
 Tap
 Unsummon
+Protection from Green
 
 ----------
 Gruul Clans - Stefan
@@ -104,6 +131,7 @@ Double strike
 Menace
 Lifelink
 Pizza
+Protection from Black
 
 ----------
 Azorius Senate - Borsuk
@@ -123,6 +151,7 @@ Flash
 Protection from red
 Defender
 Piwerko
+Protection from Red
 
 ----------
 Golgari Swarm - Borsuk 2.0
