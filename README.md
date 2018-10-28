@@ -52,6 +52,16 @@ House Dimir - Kamil
 Black
 Blue
 
+Dimir Abilities
+
+Flying
+Deathtouch
+Lifelink
+Affinity for Artefacts
+Can't be blocked
+Persist
+Fear
+Hexsproof
 Detain
 Tap
 Unsummon
@@ -62,8 +72,21 @@ Gruul Clans - Stefan
 Red
 Green
 
-Haste
+Gruul Abilities
+
 Trample
+Haste
+Double strike
+Cascade
+Cycling
+Add Mana
+Reach
+Shroud
+Bloodrush
+Landfall
+Vigilance
+Flash
+Protection from blue
 
 ----------
 Boros Legion - Wiercik
@@ -71,6 +94,15 @@ Boros Legion - Wiercik
 White
 Red
 
+Boros Abilities
+
+First strike
+Vigilance
+Flying
+Haste
+Double strike
+Menace
+Lifelink
 Pizza
 
 ----------
@@ -79,6 +111,17 @@ Azorius Senate - Borsuk
 White
 Blue
 
+Azorius Abilities 
+
+Flying
+Hexsproof
+Protection from enchantments
+Shroud
+Lifelink
+Exalted
+Flash
+Protection from red
+Defender
 Piwerko
 
 ----------
