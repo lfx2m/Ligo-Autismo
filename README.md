@@ -79,17 +79,17 @@ Blue
 
 Dimir Abilities
 
-Flying
-Deathtouch
-Lifelink
-Affinity for Artefacts
-Can't be blocked
-Persist
-Fear
-Hexsproof
-Detain
-Tap
-Unsummon
+Flying--
+Deathtouch--
+Lifelink--
+Affinity for Artefacts--
+Can't be blocked--
+Persist--
+Fear--
+Hexsproof--
+Detain--
+Tap--
+Unsummon--
 Protection from Green
 
 ----------
@@ -100,18 +100,18 @@ Green
 
 Gruul Abilities
 
-Trample
-Haste
-Double strike
-Cascade
-Cycling
-Add Mana
-Reach
-Shroud
-Bloodrush
-Landfall
-Vigilance
-Flash
+Trample--
+Haste--
+Double strike--
+Cascade--
+Cycling--
+Add Mana--
+Reach--
+Shroud--
+Bloodrush--
+Landfall--
+Vigilance--
+Flash--
 Protection from blue
 
 ----------
@@ -122,14 +122,14 @@ Red
 
 Boros Abilities
 
-First strike
-Vigilance
-Flying
-Haste
-Double strike
-Menace
-Lifelink
-Pizza
+First strike--
+Vigilance--
+Flying--
+Haste-
+Double strike--
+Menace--
+Lifelink--
+Pizza--
 Protection from Black
 
 ----------
@@ -140,16 +140,16 @@ Blue
 
 Azorius Abilities 
 
-Flying
-Hexsproof
-Protection from enchantments
-Shroud
-Lifelink
-Exalted
-Flash
-Protection from red
-Defender
-Piwerko
+Flying--
+Hexsproof--
+Protection from enchantments--
+Shroud--
+Lifelink--
+Exalted--
+Flash--
+Protection from red--
+Defender--
+Piwerko--
 Protection from Red
 
 ----------
