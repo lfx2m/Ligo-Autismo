@@ -5,12 +5,10 @@
 Currently Working On:
 =====================
 
-2 colour uber lands 
-
-Azorius
-Orzov
-
-Rest of guildgates
+Selwuch to Oracle
+{?}
+Whenever a creature enters the battlefield under you controll you may draw a card.
+{?}{?}
 
 Lands
 ==========
