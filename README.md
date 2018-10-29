@@ -95,7 +95,7 @@ Haxproof --
 
 Add Mana -- 
 
-Reach -- 
+Regenerate -- 
 
 Kingdoms
 ==========
@@ -106,15 +106,17 @@ House Dimir - Kamil
 Black
 Blue
 
-Flying -- 
 Deathtouch -- 
+Unblockable -- 
+Detain -- 
+Draw Card -- 
+
+Flying -- 
 Lifelink -- 
 Affinity for Artefacts -- 
-Can't be blocked -- 
 Persist -- 
 Fear -- 
 Hexsproof -- 
-Detain -- 
 Tap -- 
 Unsummon -- 
 Protection from Green -- 
@@ -129,6 +131,7 @@ Trample --
 Haste -- 
 Double strike -- 
 Cascade -- 
+
 Cycling -- 
 Add Mana -- 
 Reach -- 
@@ -146,11 +149,12 @@ White
 Red
 
 First strike -- 
-Vigilance -- 
-Flying -- 
-Haste -- 
-Double strike -- 
 Menace -- 
+Haste -- 
+Vigilance -- 
+
+Flying -- 
+Double strike -- 
 Lifelink -- 
 Pizza -- 
 
@@ -161,12 +165,14 @@ White
 Blue
 
 Flying -- 
+Exalted -- 
+Flash -- 
+Scry -- 
+
 Hexsproof -- 
 Protection from enchantments -- 
 Shroud -- 
 Lifelink -- 
-Exalted -- 
-Flash -- 
 Defender -- 
 Piwerko -- 
 Protection from Red -- 
@@ -177,14 +183,15 @@ Golgari Swarm - Borsuk 2.0
 Green
 Black
 
+Regenerate -- 
+Scavenge -- 
+Dredge -- 
+Sacrifice -- 
+
 Trample -- 
 Unearth -- 
-Regenerate -- 
 Devour -- 
 Wither -- 
-Dredge -- 
-Scavenge -- 
-
 
 ----------
 Izzet League - Ledzion
@@ -192,13 +199,15 @@ Izzet League - Ledzion
 Blue
 Red
 
+Return to Hand -- 
+Raid -- 
+Can't be countered -- 
+Deal X Demage -- 
+
 Flying -- 
 Haste -- 
-Return to Hand -- 
 Flash -- 
-Raid -- 
 Draw Card -- 
-Can't be countered -- 
 
 ----------
 Selesnya Conclave - Madzia
@@ -206,13 +215,14 @@ Selesnya Conclave - Madzia
 Green
 White
 
-Flying -- 
-Vigilance -- 
-Trample --
 Add mana -- 
-Lifelink --
-Monstrosity -- 
 Shroud -- 
+Monstrosity -- 
+Vigilance -- 
+
+Flying -- 
+Trample --
+Lifelink --
 Exalted -- 
 Protetion from Black -- 
 
@@ -222,10 +232,12 @@ Cult of Rakdos - Pietro
 Black
 Red
 
-Menace -- 
-Attacking Creatures get +2/+0 -- 
 Unleash -- 
 Hellbent -- 
+Menace -- 
+Discard -- 
+
+Attacking Creatures get +2/+0 -- 
 Sacrifice to do 1 dmg -- 
 protection from White -- 
 
@@ -236,10 +248,11 @@ Black
 White
 
 Lifelink -- 
-Dethtouch -- 
-Flanking -- 
-Sacrifice to gain 1 life and oponent loose  life -- 
 Extort -- 
+Flanking -- 
+Dethtouch -- 
+
+Sacrifice to gain 1 life and oponent loose  life -- 
 Tap target creature unless oponent pays 2 life -- 
 
 ----------
@@ -248,15 +261,16 @@ Simic Combine - Boski
 Green
 Blue
 
-Can't be countered -- 
+Graft -- 
 Regenreate -- 
+Hexproof -- 
+Draw Card -- 
+
+Can't be countered -- 
 Flying -- 
 Trample -- 
 Add mana -- 
 Flash -- 
 Unblockable -- 
-Defender -- 
 Untap target Permanent -- 
 Graft -- 
-Hexproof -- 
-Cascade -- 
