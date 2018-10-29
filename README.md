@@ -43,34 +43,34 @@ Colours
 ----------------
 BLACK
 ----------------
-Deathtouch --
+Deathtouch -- 
 
-Lifelink -- 
+Lifelink ---- 
 
-Discard -- 
+Discard ----- 
 
-Sacrifice -- 
+Sacrifice --- 
 
 ----------------
 BLUE
 ----------------
-Flying -- 
+Flying ---------- 
 
 Return to Hand -- 
 
-Draw Card -- Selwuch
+Draw Card ------- Selwuch
 
-Scry -- 
+Scry ------------
 
 ----------------
 WHITE
 ----------------
 
-Vigilance --
+Vigilance -----
 
-Flash -- 
+Flash --------- 
 
-Exalted -- 
+Exalted ------- 
 
 First Strike -- 
 
@@ -78,22 +78,22 @@ First Strike --
 RED
 ----------------
 
-Haste -- 
+Haste ---------- 
 
 Double Strike -- 
 
-Menace -- 
+Menace --------- 
 
-Deal Demage --
+Deal Demage ----
 
 ----------------
 GREEN
 ----------------
-Trample -- 
+Trample ----- 
 
-Haxproof -- 
+Haxproof ---- 
 
-Add Mana -- 
+Add Mana ---- 
 
 Regenerate -- 
 
