@@ -58,7 +58,7 @@ Flying ----------
 
 Return to Hand -- 
 
-Draw Card ------- Selwuch
+Draw Card ------- Selwuch(U)
 
 Scry ------------
 
