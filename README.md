@@ -103,7 +103,7 @@ Kingdoms
 ----------
 House Dimir - Kamil
 ----------
-Black-Blue
+Black-Blue -- Cipher
 
 Deathtouch -- Unblockable -- Detain -- Draw Card -- 
 
@@ -112,16 +112,16 @@ Flying -- Affinity for Artefacts -- Persist -- Fear -- Hexsproof -- Tap -- Unsum
 ----------
 Gruul Clans - Stefan
 ----------
-Red-Green
+Red-Green -- Bloodrush 
 
 Trample -- Haste -- Double strike -- Cascade -- 
 
-Cycling -- Add Mana -- Reach -- Shroud -- Bloodrush -- Landfall -- Protection from Blue -- 
+Cycling -- Add Mana -- Reach -- Shroud -- Landfall -- Protection from Blue -- 
 
 ----------
 Boros Legion - Wiercik
 ----------
-White-Red
+White-Red -- Battalion 
 
 First Strike -- Menace -- Haste -- Vigilance -- 
 
@@ -130,7 +130,7 @@ Double Strike -- Lifelink --
 ----------
 Azorius Senate - Borsuk
 ----------
-White-Blue
+White-Blue -- Detain 
 
 Flying -- Exalted -- Flash -- Scry -- 
 
@@ -139,7 +139,7 @@ Hexsproof -- Protection from Enchantments -- Shroud -- Lifelink -- Defender -- P
 ----------
 Golgari Swarm - Borsuk 2.0
 ----------
-Green-Black
+Green-Black -- Scavenge 
 
 Regenerate -- Scavenge -- Dredge -- Sacrifice -- 
 
@@ -148,7 +148,7 @@ Trample -- Unearth -- Devour -- Wither --
 ----------
 Izzet League - Ledzion
 ----------
-Blue-Red
+Blue-Red -- Overload 
 
 Return to Hand -- Raid -- Can't be Countered -- Deal X Demage -- 
 
@@ -157,7 +157,7 @@ Flying -- Haste -- Flash -- Draw Card --
 ----------
 Selesnya Conclave - Madzia
 ----------
-Green-White
+Green-White -- Populate 
 
 Add Mana -- Shroud -- Monstrosity -- Vigilance -- 
 
@@ -166,25 +166,25 @@ Trample -- Lifelink -- Exalted -- Protetion from Black --
 ----------
 Cult of Rakdos - Pietro
 ----------
-Black-Red
+Black-Red -- Unleash 
 
-Unleash -- Hellbent -- Menace -- Discard -- 
+Destroy -- Hellbent -- Menace -- Discard -- 
 
 Attacking Creatures get +2/+0 -- Sacrifice to do 1 Dmg -- Protection from White -- 
 
 ----------
 Orzhov Syndicate - Maxym
 ----------
-Black-White
+Black-White -- Extort 
 
-Lifelink -- Extort -- Flanking -- Dethtouch -- 
+Lifelink -- Destroy -- Flanking -- Dethtouch -- 
 
 Sacrifice to Gain 1 Life and Oponent Loose 1 Life -- Tap Target Creature Unless Oponent Pays 2 Life -- 
 
 ----------
 Simic Combine - Boski
 ----------
-Green-Blue
+Green-Blue -- Evolve 
 
 Graft -- Regenreate -- Hexproof -- Draw Card -- 
 
