@@ -40,8 +40,9 @@ C = 2.0 Card is added to V2-Cards
 Colours
 ==========
 
+----------------
 BLACK
-
+----------------
 Deathtouch --
 
 Lifelink -- 
@@ -50,8 +51,9 @@ Discard --
 
 Sacrifice -- 
 
+----------------
 BLUE
-
+----------------
 Flying -- 
 
 Return to Hand -- 
@@ -60,7 +62,9 @@ Draw Card -- Selwuch
 
 Scry -- 
 
+----------------
 WHITE
+----------------
 
 Vigilance --
 
@@ -70,7 +74,9 @@ Exalted --
 
 First Strike -- 
 
+----------------
 RED
+----------------
 
 Haste -- 
 
@@ -80,8 +86,9 @@ Menace --
 
 Deal Demage --
 
+----------------
 GREEN
-
+----------------
 Trample -- 
 
 Haxproof -- 
