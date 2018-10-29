@@ -106,8 +106,6 @@ House Dimir - Kamil
 Black
 Blue
 
-Dimir Abilities
-
 Flying -- 
 Deathtouch -- 
 Lifelink -- 
@@ -126,8 +124,6 @@ Gruul Clans - Stefan
 ----------
 Red
 Green
-
-Gruul Abilities
 
 Trample -- 
 Haste -- 
@@ -149,8 +145,6 @@ Boros Legion - Wiercik
 White
 Red
 
-Boros Abilities
-
 First strike -- 
 Vigilance -- 
 Flying -- 
@@ -165,8 +159,6 @@ Azorius Senate - Borsuk
 ----------
 White
 Blue
-
-Azorius Abilities 
 
 Flying -- 
 Hexsproof -- 
@@ -185,8 +177,6 @@ Golgari Swarm - Borsuk 2.0
 Green
 Black
 
-Golgari Abilities 
-
 Trample -- 
 Unearth -- 
 Regenerate -- 
@@ -202,7 +192,6 @@ Izzet League - Ledzion
 Blue
 Red
 
-Izzet Abilities 
 Flying -- 
 Haste -- 
 Return to Hand -- 
@@ -217,7 +206,6 @@ Selesnya Conclave - Madzia
 Green
 White
 
-Selesnya Abilities 
 Flying -- 
 Vigilance -- 
 Trample --
@@ -234,7 +222,6 @@ Cult of Rakdos - Pietro
 Black
 Red
 
-Rakdos Abilities 
 Menace -- 
 Attacking Creatures get +2/+0 -- 
 Unleash -- 
@@ -248,7 +235,6 @@ Orzhov Syndicate - Maxym
 Black
 White
 
-Orzhov Abilities 
 Lifelink -- 
 Dethtouch -- 
 Flanking -- 
@@ -262,7 +248,6 @@ Simic Combine - Boski
 Green
 Blue
 
-Simic Abilities 
 Can't be countered -- 
 Regenreate -- 
 Flying -- 
