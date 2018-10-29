@@ -112,7 +112,6 @@ Detain --
 Draw Card -- 
 
 Flying -- 
-Lifelink -- 
 Affinity for Artefacts -- 
 Persist -- 
 Fear -- 
@@ -138,9 +137,7 @@ Reach --
 Shroud -- 
 Bloodrush -- 
 Landfall -- 
-Vigilance -- 
-Flash -- 
-Protection from blue -- 
+Protection from Blue -- 
 
 ----------
 Boros Legion - Wiercik
@@ -153,10 +150,8 @@ Menace --
 Haste -- 
 Vigilance -- 
 
-Flying -- 
-Double strike -- 
+Double Strike -- 
 Lifelink -- 
-Pizza -- 
 
 ----------
 Azorius Senate - Borsuk
@@ -170,11 +165,10 @@ Flash --
 Scry -- 
 
 Hexsproof -- 
-Protection from enchantments -- 
+Protection from Enchantments -- 
 Shroud -- 
 Lifelink -- 
 Defender -- 
-Piwerko -- 
 Protection from Red -- 
 
 ----------
@@ -201,7 +195,7 @@ Red
 
 Return to Hand -- 
 Raid -- 
-Can't be countered -- 
+Can't be Countered -- 
 Deal X Demage -- 
 
 Flying -- 
@@ -215,12 +209,11 @@ Selesnya Conclave - Madzia
 Green
 White
 
-Add mana -- 
+Add Mana -- 
 Shroud -- 
 Monstrosity -- 
 Vigilance -- 
 
-Flying -- 
 Trample --
 Lifelink --
 Exalted -- 
@@ -238,8 +231,8 @@ Menace --
 Discard -- 
 
 Attacking Creatures get +2/+0 -- 
-Sacrifice to do 1 dmg -- 
-protection from White -- 
+Sacrifice to do 1 Dmg -- 
+Protection from White -- 
 
 ----------
 Orzhov Syndicate - Maxym
@@ -252,8 +245,8 @@ Extort --
 Flanking -- 
 Dethtouch -- 
 
-Sacrifice to gain 1 life and oponent loose  life -- 
-Tap target creature unless oponent pays 2 life -- 
+Sacrifice to Gain 1 Life and Oponent Loose 1 Life -- 
+Tap Target Creature Unless Oponent Pays 2 Life -- 
 
 ----------
 Simic Combine - Boski
@@ -266,11 +259,10 @@ Regenreate --
 Hexproof -- 
 Draw Card -- 
 
-Can't be countered -- 
-Flying -- 
+Can't be Countered -- 
 Trample -- 
-Add mana -- 
+Add Mana -- 
 Flash -- 
 Unblockable -- 
-Untap target Permanent -- 
-Graft -- 
+Untap Target Permanent -- 
+Unsummon -- 
