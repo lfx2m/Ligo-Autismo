@@ -193,6 +193,7 @@ Regenerate --
 Devour -- 
 Wither -- 
 Dredge -- 
+Scavenge -- 
 
 
 ----------
