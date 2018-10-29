@@ -103,166 +103,89 @@ Kingdoms
 ----------
 House Dimir - Kamil
 ----------
-Black
-Blue
+Black-Blue
 
-Deathtouch -- 
-Unblockable -- 
-Detain -- 
-Draw Card -- 
+Deathtouch -- Unblockable -- Detain -- Draw Card -- 
 
-Flying -- 
-Affinity for Artefacts -- 
-Persist -- 
-Fear -- 
-Hexsproof -- 
-Tap -- 
-Unsummon -- 
-Protection from Green -- 
+Flying -- Affinity for Artefacts -- Persist -- Fear -- Hexsproof -- Tap -- Unsummon -- Protection from Green -- 
 
 ----------
 Gruul Clans - Stefan
 ----------
-Red
-Green
+Red-Green
 
-Trample -- 
-Haste -- 
-Double strike -- 
-Cascade -- 
+Trample -- Haste -- Double strike -- Cascade -- 
 
-Cycling -- 
-Add Mana -- 
-Reach -- 
-Shroud -- 
-Bloodrush -- 
-Landfall -- 
-Protection from Blue -- 
+Cycling -- Add Mana -- Reach -- Shroud -- Bloodrush -- Landfall -- Protection from Blue -- 
 
 ----------
 Boros Legion - Wiercik
 ----------
-White
-Red
+White-Red
 
-First strike -- 
-Menace -- 
-Haste -- 
-Vigilance -- 
+First Strike -- Menace -- Haste -- Vigilance -- 
 
-Double Strike -- 
-Lifelink -- 
+Double Strike -- Lifelink -- 
 
 ----------
 Azorius Senate - Borsuk
 ----------
-White
-Blue
+White-Blue
 
-Flying -- 
-Exalted -- 
-Flash -- 
-Scry -- 
+Flying -- Exalted -- Flash -- Scry -- 
 
-Hexsproof -- 
-Protection from Enchantments -- 
-Shroud -- 
-Lifelink -- 
-Defender -- 
-Protection from Red -- 
+Hexsproof -- Protection from Enchantments -- Shroud -- Lifelink -- Defender -- Protection from Red -- 
 
 ----------
 Golgari Swarm - Borsuk 2.0
 ----------
-Green
-Black
+Green-Black
 
-Regenerate -- 
-Scavenge -- 
-Dredge -- 
-Sacrifice -- 
+Regenerate -- Scavenge -- Dredge -- Sacrifice -- 
 
-Trample -- 
-Unearth -- 
-Devour -- 
-Wither -- 
+Trample -- Unearth -- Devour -- Wither -- 
 
 ----------
 Izzet League - Ledzion
 ----------
-Blue
-Red
+Blue-Red
 
-Return to Hand -- 
-Raid -- 
-Can't be Countered -- 
-Deal X Demage -- 
+Return to Hand -- Raid -- Can't be Countered -- Deal X Demage -- 
 
-Flying -- 
-Haste -- 
-Flash -- 
-Draw Card -- 
+Flying -- Haste -- Flash -- Draw Card -- 
 
 ----------
 Selesnya Conclave - Madzia
 ----------
-Green
-White
+Green-White
 
-Add Mana -- 
-Shroud -- 
-Monstrosity -- 
-Vigilance -- 
+Add Mana -- Shroud -- Monstrosity -- Vigilance -- 
 
-Trample --
-Lifelink --
-Exalted -- 
-Protetion from Black -- 
+Trample -- Lifelink -- Exalted -- Protetion from Black -- 
 
 ----------
 Cult of Rakdos - Pietro
 ----------
-Black
-Red
+Black-Red
 
-Unleash -- 
-Hellbent -- 
-Menace -- 
-Discard -- 
+Unleash -- Hellbent -- Menace -- Discard -- 
 
-Attacking Creatures get +2/+0 -- 
-Sacrifice to do 1 Dmg -- 
-Protection from White -- 
+Attacking Creatures get +2/+0 -- Sacrifice to do 1 Dmg -- Protection from White -- 
 
 ----------
 Orzhov Syndicate - Maxym
 ----------
-Black
-White
+Black-White
 
-Lifelink -- 
-Extort -- 
-Flanking -- 
-Dethtouch -- 
+Lifelink -- Extort -- Flanking -- Dethtouch -- 
 
-Sacrifice to Gain 1 Life and Oponent Loose 1 Life -- 
-Tap Target Creature Unless Oponent Pays 2 Life -- 
+Sacrifice to Gain 1 Life and Oponent Loose 1 Life -- Tap Target Creature Unless Oponent Pays 2 Life -- 
 
 ----------
 Simic Combine - Boski
 ----------
-Green
-Blue
+Green-Blue
 
-Graft -- 
-Regenreate -- 
-Hexproof -- 
-Draw Card -- 
+Graft -- Regenreate -- Hexproof -- Draw Card -- 
 
-Can't be Countered -- 
-Trample -- 
-Add Mana -- 
-Flash -- 
-Unblockable -- 
-Untap Target Permanent -- 
-Unsummon -- 
+Can't be Countered -- Trample -- Add Mana -- Flash -- Unblockable -- Untap Target Permanent -- Unsummon -- 
