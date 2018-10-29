@@ -108,18 +108,18 @@ Blue
 
 Dimir Abilities
 
-Flying--
-Deathtouch--
-Lifelink--
-Affinity for Artefacts--
-Can't be blocked--
-Persist--
-Fear--
-Hexsproof--
-Detain--
-Tap--
-Unsummon--
-Protection from Green
+Flying -- 
+Deathtouch -- 
+Lifelink -- 
+Affinity for Artefacts -- 
+Can't be blocked -- 
+Persist -- 
+Fear -- 
+Hexsproof -- 
+Detain -- 
+Tap -- 
+Unsummon -- 
+Protection from Green -- 
 
 ----------
 Gruul Clans - Stefan
@@ -129,19 +129,19 @@ Green
 
 Gruul Abilities
 
-Trample--
-Haste--
-Double strike--
-Cascade--
-Cycling--
-Add Mana--
-Reach--
-Shroud--
-Bloodrush--
-Landfall--
-Vigilance--
-Flash--
-Protection from blue
+Trample -- 
+Haste -- 
+Double strike -- 
+Cascade -- 
+Cycling -- 
+Add Mana -- 
+Reach -- 
+Shroud -- 
+Bloodrush -- 
+Landfall -- 
+Vigilance -- 
+Flash -- 
+Protection from blue -- 
 
 ----------
 Boros Legion - Wiercik
@@ -151,15 +151,14 @@ Red
 
 Boros Abilities
 
-First strike--
-Vigilance--
-Flying--
-Haste-
-Double strike--
-Menace--
-Lifelink--
-Pizza--
-Protection from Black
+First strike -- 
+Vigilance -- 
+Flying -- 
+Haste -- 
+Double strike -- 
+Menace -- 
+Lifelink -- 
+Pizza -- 
 
 ----------
 Azorius Senate - Borsuk
@@ -169,17 +168,16 @@ Blue
 
 Azorius Abilities 
 
-Flying--
-Hexsproof--
-Protection from enchantments--
-Shroud--
-Lifelink--
-Exalted--
-Flash--
-Protection from red--
-Defender--
-Piwerko--
-Protection from Red
+Flying -- 
+Hexsproof -- 
+Protection from enchantments -- 
+Shroud -- 
+Lifelink -- 
+Exalted -- 
+Flash -- 
+Defender -- 
+Piwerko -- 
+Protection from Red -- 
 
 ----------
 Golgari Swarm - Borsuk 2.0
@@ -187,11 +185,30 @@ Golgari Swarm - Borsuk 2.0
 Green
 Black
 
+Golgari Abilities 
+
+Trample -- 
+Unearth -- 
+Regenerate -- 
+Devour -- 
+Wither -- 
+Dredge -- 
+
+
 ----------
 Izzet League - Ledzion
 ----------
 Blue
 Red
+
+Izzet Abilities 
+Flying -- 
+Haste -- 
+Return to Hand -- 
+Flash -- 
+Raid -- 
+Draw Card -- 
+Can't be countered -- 
 
 ----------
 Selesnya Conclave - Madzia
@@ -199,11 +216,30 @@ Selesnya Conclave - Madzia
 Green
 White
 
+Selesnya Abilities 
+Flying -- 
+Vigilance -- 
+Trample --
+Add mana -- 
+Lifelink --
+Monstrosity -- 
+Shroud -- 
+Exalted -- 
+Protetion from Black -- 
+
 ----------
 Cult of Rakdos - Pietro
 ----------
 Black
 Red
+
+Rakdos Abilities 
+Menace -- 
+Attacking Creatures get +2/+0 -- 
+Unleash -- 
+Hellbent -- 
+Sacrifice to do 1 dmg -- 
+protection from White -- 
 
 ----------
 Orzhov Syndicate - Maxym
@@ -211,8 +247,30 @@ Orzhov Syndicate - Maxym
 Black
 White
 
+Orzhov Abilities 
+Lifelink -- 
+Dethtouch -- 
+Flanking -- 
+Sacrifice to gain 1 life and oponent loose  life -- 
+Extort -- 
+Tap target creature unless oponent pays 2 life -- 
+
 ----------
 Simic Combine - Boski
 ----------
 Green
 Blue
+
+Simic Abilities 
+Can't be countered -- 
+Regenreate -- 
+Flying -- 
+Trample -- 
+Add mana -- 
+Flash -- 
+Unblockable -- 
+Defender -- 
+Untap target Permanent -- 
+Graft -- 
+Hexproof -- 
+Cascade -- 
