@@ -141,9 +141,9 @@ Golgari Swarm - Borsuk 2.0
 ----------
 Green-Black -- Scavenge 
 
-Regenerate -- Scavenge -- Dredge -- Sacrifice -- 
+Regenerate -- Devour -- Dredge -- Sacrifice -- 
 
-Trample -- Unearth -- Devour -- Wither -- 
+Trample -- Unearth -- Wither -- 
 
 ----------
 Izzet League - Ledzion
