@@ -17,6 +17,8 @@ Selwuch to Oracle
 
 Whenever a creature enters the battlefield under you controll you may draw a card.
 
+<i>Flavor Text</i>
+
 {0}{3}
 
 Lands
