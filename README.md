@@ -7,19 +7,21 @@ Currently Working On:
 
 Random People We know 
 
-{1}/{20}
+{2}/{20}
 
-1.Selwuch
+1.Random Girl
 
-Selwuch to Oracle
+Help
 
-{(1)(U)(U)}
+{(2)(R)}
 
-Whenever a creature enters the battlefield under you controll you may draw a card.
+Haste
+
+You may exert Ahn-Crop Crasher as it attacks. When you do, target creature can't block this turn. (An exerted creature won't untap during your next untap step)
 
 <i>Flavor Text</i>
 
-{0}{3}
+{3}{1}
 
 Lands
 ==========
