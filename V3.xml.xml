@@ -1,0 +1,27 @@
+<cockatrice_carddatabase version="3">
+    <cards>
+        <!-- TEMPLATE
+        <card>
+            <name></name>
+            <set picURL="">UNH</set>
+            <color></color>
+            <manacost></manacost>
+            <cmc>20</cmc>
+            <type></type>
+            <pt></pt>
+            <tablerow></tablerow>
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        -->
+        </card><card>
+            <name>Caffe Italiano</name>
+            <set picURL="Caffe Italiano.png">UNH</set>
+			<color>r</color>
+			<color>w</color>
+			<color>g</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+    </cards>
+</cockatrice_carddatabase>
