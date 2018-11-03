@@ -7,21 +7,19 @@ Currently Working On:
 
 Random People We know 
 
-{2}/{20}
+{3}/{20}
 
-1.Random Girl
+1.Random Gopnik 
 
-Help
+Random Gopnik who can Climb
 
-{(2)(R)}
+{(1)(B)}
 
-Haste
+Sacrifice Random Gopnik that can Climb: Target player discards a card from hir or her hand. 
 
-You may exert Ahn-Crop Crasher as it attacks. When you do, target creature can't block this turn. (An exerted creature won't untap during your next untap step)
+<i>This guy rolls along anything that happens around him</i>
 
-<i>Flavor Text</i>
-
-{3}{1}
+{1}{1}
 
 Lands
 ==========
@@ -53,7 +51,7 @@ Lifelink ----
 
 Discard ----- 
 
-Sacrifice --- 
+Sacrifice --- Random Gopnik 
 
 ----------------
 BLUE
@@ -62,7 +60,7 @@ Flying ----------
 
 Return to Hand -- 
 
-Draw Card ------- Selwuch(U)
+Draw Card ------- Selwuch
 
 Scry ------------
 
@@ -82,7 +80,7 @@ First Strike --
 RED
 ----------------
 
-Haste ---------- 
+Haste ---------- Random Girl 
 
 Double Strike -- 
 
