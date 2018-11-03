@@ -1,0 +1,929 @@
+<cockatrice_carddatabase version="3">
+    <cards>
+        <!-- TEMPLATE
+        <card>
+            <name></name>
+            <set picURL="">UNH</set>
+            <color></color>
+            <manacost></manacost>
+            <cmc>20</cmc>
+            <type></type>
+            <pt></pt>
+            <tablerow></tablerow>
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        -->
+        <card>
+            <name>Final Monument Of The Day</name>
+            <set picURL="Final Monument Of The Day.png">UNH</set>
+            <color>R</color>
+            <color>B</color>
+            <manacost></manacost>
+            <cmc>20</cmc>
+            <type>Land</type>
+            <!-- <pt></pt> -->
+            <tablerow>0</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt> <!-- comes into play tapped? -->
+        </card>
+        <card>
+            <name>Gryfia Stocznia Remontowa</name>
+            <set picURL="Gryfia Stocznia Remontowa.png">UNH</set>
+            <color>U</color>
+            <manacost></manacost>
+            <cmc>20</cmc>
+            <type>Land</type>
+            <!-- <pt></pt> -->
+            <tablerow>0</tablerow> 
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Mad Magician's Lab</name>
+            <set picURL="Mad Magician's Lab.png'">UNH</set>
+            <color>R</color>
+            <color>B</color>
+            <color>U</color>
+            <manacost></manacost>
+            <cmc>20</cmc>
+            <type>Land</type>
+            <!-- <pt></pt> -->
+            <tablerow>0</tablerow> <!-- HALO -->
+            <text></text>
+            <cipt>1</cipt>
+        </card>
+        <card>
+            <name>Mountain</name>
+            <set picURL="Mountain.png">UNH</set>
+            <color>R</color>
+            <manacost></manacost>
+            <cmc>20</cmc>
+            <type>Land</type>
+            <!-- <pt></pt> -->
+            <tablerow>0</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Synthetic Fuel Factory</name>
+            <set picURL="Synthetic Fuel Factory.png">UNH</set>
+            <color>B</color>
+            <manacost></manacost>
+            <cmc>20</cmc>
+            <type>Land</type>
+            <!-- <pt></pt> -->
+            <tablerow>0</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Tani Ruski CPN</name>
+            <set picURL="Tani Ruski CPN.png">UNH</set>
+            <color>B</color>
+            <color>U</color>
+            <manacost></manacost>
+            <cmc>20</cmc>
+            <type>Land</type>
+            <!-- <pt></pt> -->
+            <tablerow>0</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>The Shadow River</name>
+            <set picURL="The Shadow River.png">UNH</set>
+            <color>B</color>
+            <color>U</color>
+            <manacost></manacost>
+            <cmc>20</cmc>
+            <type>Land</type>
+            <!-- <pt></pt> -->
+            <tablerow>0</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Badger The Alchemist</name>
+            <set picURL="Badger The Alchemist.png">UNH</set>
+            <color>B</color>
+            <color>U</color>
+            <manacost>UUBB</manacost>
+            <cmc>20</cmc>
+            <type>Creature - Human Wizard</type>
+            <pt>1/3</pt>
+            <tablerow>2</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Beer Night</name>
+            <set picURL="Beer Night.png">UNH</set>
+            <color>U</color>
+            <manacost>4UU</manacost>
+            <cmc>20</cmc>
+            <type>Instant</type>
+            <!-- <pt></pt> -->
+            <tablerow>3</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Bonefire Land</name> <!-- [sic] -->
+            <set picURL="Bonefire Land.jpg">UNH</set>
+            <color>R</color>
+            <manacost></manacost>
+            <cmc>20</cmc>
+            <type>Land - Gate</type>
+            <!-- <pt></pt> -->
+            <tablerow>0</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Death Sentence</name>
+            <set picURL="Death Sentence.jpg">UNH</set>
+            <color>B</color>
+            <manacost>BBB</manacost>
+            <cmc>20</cmc>
+            <type>Instant</type>
+            <!-- <pt></pt> -->
+            <tablerow>3</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Drunken Borsuk</name>
+            <set picURL="Drunken Borsuk.png">UNH</set>
+            <color>B</color>
+            <color>U</color>
+            <color>R</color>
+            <manacost>UBR</manacost>
+            <cmc>20</cmc>
+            <type>Creature - Human Apprentice</type>
+            <pt>1/5</pt>
+            <tablerow>2</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Kamil The Pyromaniac</name>
+            <set picURL="Kamil The Pyromaniac">UNH</set>
+            <color>R</color>
+            <manacost>RRR</manacost>
+            <cmc>20</cmc>
+            <type>Creature - Human Wizard</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Moonshiner's Cap</name>
+            <set picURL="Moonshiner's Cap.jpg'">UNH</set>
+            <color>R</color>
+            <color>W</color>
+            <color>U</color>
+            <manacost>1RU/W</manacost>
+            <cmc>20</cmc>
+            <type>Enchantment - Equipment</type>
+            <!-- <pt></pt> -->
+            <tablerow>1</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Quickstart</name>
+            <set picURL="Quickstart.png">UNH</set>
+            <color>R</color>
+            <color>B</color>
+            <manacost>RBB</manacost>
+            <cmc>20</cmc>
+            <type>Tribal Instant - Slav</type>
+            <!-- <pt></pt> -->
+            <tablerow>3</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Random Gopnik That Can Climb</name>
+            <set picURL="Random Gopnik That Can Climb.png">UNH</set>
+            <color>B</color>
+            <manacost>1B</manacost>
+            <cmc>20</cmc>
+            <type>Creature - Human Rogue</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Selwuch Supplier Of Tissiues</name> <!-- [sic] -->
+            <set picURL="Selwuch Supplier Of Tissiues.png">UNH</set>
+            <color>U</color>
+            <manacost>1U</manacost>
+            <cmc>20</cmc>
+            <type>Creature - Human</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Sio The Shapeshifter</name>
+            <set picURL="Sio The Shapeshifter.png">UNH</set>
+            <color>R</color>
+            <color>U</color>
+            <color>B</color>
+            <manacost>2UBR</manacost>
+            <cmc>20</cmc>
+            <type>Creature - Shapeshifter</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Sundarananda Suaboguowy</name>
+            <set picURL="Sundarananda Suaboguowy.png">UNH</set>
+            <color>R</color>
+            <manacost>1R</manacost>
+            <cmc>20</cmc>
+            <type>Creature - Human</type>
+            <pt>0/1</pt>
+            <tablerow>2</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>The False Prophet</name>
+            <set picURL="The False Prophet.png">UNH</set>
+            <color>R</color>
+            <color>B</color>
+            <manacost>RRBB</manacost>
+            <cmc>20</cmc>
+            <type>Creature - Human Apprentice</type>
+            <pt>4/1</pt>
+            <tablerow>2</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>The Squat Master</name>
+            <set picURL="The Squat Master.png">UNH</set>
+            <color>R</color>
+            <manacost>3RR</manacost>
+            <cmc>20</cmc>
+            <type>Creature - Gopnik</type>
+            <pt>3/2</pt>
+            <tablerow>2</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>U Gonna Die</name>
+            <set picURL="U Gonna Die.png">UNH</set>
+            <color>B</color>
+            <manacost>BBB</manacost>
+            <cmc>20</cmc>
+            <type>Sorcery</type>
+            <!-- <pt></pt> -->
+            <tablerow>3</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        <card>
+            <name>Wpierdol</name>
+            <set picURL="Wpierdol.png">UNH</set>
+            <color>R</color>
+            <manacost>1RR</manacost>
+            <cmc>20</cmc>
+            <type>Instant</type>
+            <!-- <pt></pt> -->
+            <tablerow>3</tablerow> <!-- 0: land, 1: noncreature, nonland permanent, 2: creature, 3: non-permanent -->
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+		<card>
+            <name>Abandoned Soviet Complex</name>
+            <set picURL="Abandoned Soviet Complex.png">UNH</set>
+			<color>B</color>
+			<color>G</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Fat Petit Worker</name>
+            <set picURL="Fat Petit Worker.jpg">UNH</set>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Gopnik squat</name>
+            <set picURL="Gopnik squat.jpg">UNH</set>
+			<color>w</color>
+			<color>r</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>High Wiercik</name>
+            <set picURL="High Wiercik.jpg">UNH</set>
+			<color>w</color>
+			<color>r</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Pacyfikator</name>
+            <set picURL="Pacyfikator.jpg">UNH</set>
+			<color>w</color>
+			<type>Sorcery</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Agnieszka The Opportunist </name>
+            <set picURL="Agnieszka The Opportunist .png">UNH</set>
+			<color>w</color>
+			<color>B</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Badger The Specialist</name>
+            <set picURL="Badger The Specialist.png">UNH</set>
+			<color>B</color>
+			<color>r</color>
+			<color>g</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card><card>
+            <name>Bards Guitar Rhythm</name>
+            <set picURL="Bards Guitar Rhythm.png">UNH</set>
+			<color>r</color>
+			<color>u</color>
+			<type>Artifact</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Battle Hardened Filip</name>
+            <set picURL="Battle Hardened Filip.png">UNH</set>
+			<color>B</color>
+			<color>g</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Best Idea Ever</name>
+            <set picURL="Best Idea Ever.png">UNH</set>
+			<color>w</color>
+			<color>u</color>
+			<color>r</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Biedapiec </name>
+            <set picURL="Biedapiec .png">UNH</set>
+			<color>w</color>
+			<type>Artifact</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Blessing Of Wiercik</name>
+            <set picURL="Blessing Of Wiercik.png">UNH</set>
+			<color>w</color>
+			<color>r</color>
+			<type>Enchantment</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Boar Territory</name>
+            <set picURL="Boar Territory.png">UNH</set>
+			<color>g</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Book Of Tactics</name>
+            <set picURL="Book Of Tactics.png">UNH</set>
+			<color>r</color>
+			<type>Artifact</type>
+			<cmc>20</cmc>
+        </card><card>
+            <name>Caffe Italiano</name>
+            <set picURL="Caffe Italiano.png">UNH</set>
+			<color>r</color>
+			<color>w</color>
+			<color>g</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Centrala Mafii </name>
+            <set picURL="Centrala Mafii .png">UNH</set>
+			<color>r</color>
+			<color>w</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Choinki</name>
+            <set picURL="Choinki.png">UNH</set>
+			<color>w</color>
+			<color>g</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Cienrzarufka</name>
+            <set picURL="Cienrzarufka.png">UNH</set>
+			<color>w</color>
+			<color>g</color>
+			<type>Enchantment</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Co Kurwa</name>
+            <set picURL="Co Kurwa.png">UNH</set>
+			<color>u</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Complete Gathering</name>
+            <set picURL="Complete Gathering.png">UNH</set>
+			<color>g</color>
+			<color>r</color>
+			<color>u</color>
+			<color>w</color>
+			<color>B</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Desz(cz)owa </name>
+            <set picURL="Desz(cz)owa .png">UNH</set>
+			<color>g</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card><card>
+            <name>Filip The Explorer</name>
+            <set picURL="Filip The Explorer.png">UNH</set>
+			<color>B</color>
+			<color>g</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Filip The Traveling Gopnik</name>
+            <set picURL="Filip The Traveling Gopnik.png">UNH</set>
+			<color>B</color>
+			<color>g</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Fun Times Ahead</name>
+            <set picURL="Fun Times Ahead.png">UNH</set>
+			<color>B</color>
+			<color>g</color>
+			<type>Sorcery</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Gastro Standard</name>
+            <set picURL="Gastro Standard.png">UNH</set>
+			<color>w</color>
+			<color>g</color>
+			<type>Sorcery</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Harbinger Of Adventures</name>
+            <set picURL="Harbinger Of Adventures.png">UNH</set>
+			<color>u</color>
+			<color>w</color>
+			<color>g</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Hax0r Laptop</name>
+            <set picURL="Hax0r Laptop.png">UNH</set>
+			<color>B</color>
+			<color>u</color>
+			<type>Sorcery</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Heatwave</name>
+            <set picURL="Heatwave.png">UNH</set>
+			<color>r</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card><card>
+            <name>Hellwig</name>
+            <set picURL="Hellwig.png">UNH</set>
+			<color>w</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Janusz The Mountain</name>
+            <set picURL="Janusz The Mountain.png">UNH</set>
+			<color>w</color>
+			<color>r</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Kamil The Mage Of Smoke</name>
+            <set picURL="Kamil The Mage Of Smoke.png">UNH</set>
+			<color>u</color>
+			<color>g</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Kamil The Proud Scavenger</name>
+            <set picURL="Kamil The Proud Scavenger.png">UNH</set>
+			<color>u</color>
+			<color>g</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Kamil The Shadow Warrior </name>
+            <set picURL="Kamil The Shadow Warrior .png">UNH</set>
+			<color>u</color>
+			<color>g</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Kreimann</name>
+            <set picURL="Kreimann.png">UNH</set>
+			<color>B</color>
+			<cmc>20</cmc>
+			<type>Creature</type>
+        </card>
+		<card>
+            <name>Let Me Get This Straight</name>
+            <set picURL="Let Me Get This Straight.png">UNH</set>
+			<color>u</color>
+			<color>r</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card><card>
+            <name>Liber Daemonicum</name>
+            <set picURL="Liber Daemonicum.png">UNH</set>
+			<color>B</color>
+			<type>Artifact</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Madzia The Red</name>
+            <set picURL="Madzia The Red.png">UNH</set>
+			<color>g</color>
+			<color>w</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Madzia, Shaman Of The North</name>
+            <set picURL="Madzia, Shaman Of The North.png">UNH</set>
+			<color>B</color>
+			<color>w</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Magic Mushroom </name>
+            <set picURL="Magic Mushroom .png">UNH</set>
+			<color>u</color>
+			<color>g</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Mana Potion Manufactorum</name>
+            <set picURL="Mana Potion Manufactorum.png">UNH</set>
+			<color>g</color>
+			<color>u</color>
+			<color>r</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Marcel The Chameleon</name>
+            <set picURL="Marcel The Chameleon.png">UNH</set>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Midnight Drive</name>
+            <set picURL="Midnight Drive.png">UNH</set>
+			<color>w</color>
+			<color>r</color>
+			<type>Sorcery</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Mighty Basement Brew</name>
+            <set picURL="Mighty Basement Brew.png">UNH</set>
+			<color>w</color>
+			<color>g</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Moonshine Maker 1</name>
+            <set picURL="Moonshine Maker 1.png">UNH</set>
+			<color>g</color>
+			<type>Artifact</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Muchos Autismos</name>
+            <set picURL="Muchos Autismos.png">UNH</set>
+			<color>g</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Mumbler Seba</name>
+            <set picURL="Mumbler Seba.png">UNH</set>
+			<color>w</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Mushroom Atlas</name>
+            <set picURL="Mushroom Atlas.png">UNH</set>
+			<color>u</color>
+			<type>Artifact</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Nicotine Boost</name>
+            <set picURL="Nicotine Boost.png">UNH</set>
+			<color>B</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>No Smoking</name>
+            <set picURL="No Smoking.png">UNH</set>
+			<color>w</color>
+			<color>g</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card><card>
+            <name>Party Van</name>
+            <set picURL="Party Van.png">UNH</set>
+			<color>g</color>
+			<color>r</color>
+			<type>Artifact</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Pizza Time</name>
+            <set picURL="Pizza Time.png">UNH</set>
+			<color>g</color>
+			<color>r</color>
+			<color>w</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Plains</name>
+            <set picURL="Plains.png">UNH</set>
+			<color>w</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Prehistoric Brothel Town</name>
+            <set picURL="Prehistoric Brothel Town.png">UNH</set>
+			<color>r</color>
+			<color>w</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Random Green Fluid</name>
+            <set picURL="Random Green Fluid.png">UNH</set>
+			<color>u</color>
+			<color>r</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Richard From IT</name>
+            <set picURL="Richard From IT.png">UNH</set>
+			<color>g</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Rise And Shine</name>
+            <set picURL="Rise And Shine.png">UNH</set>
+			<color>w</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card><card>
+            <name>School Locker</name>
+            <set picURL="School Locker.png">UNH</set>
+			<color>w</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Shipyard Factory</name>
+            <set picURL="Shipyard Factory.png">UNH</set>
+			<color>r</color>
+			<color>u</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Stefan The Highschool Student</name>
+            <set picURL="Stefan The Highschool Student.png">UNH</set>
+			<color>r</color>
+			<color>g</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Stefanejro The Tourist</name>
+            <set picURL="Stefanejro The Tourist.png">UNH</set>
+			<color>r</color>
+			<color>g</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Stefankejro The Shaman</name>
+            <set picURL="Stefankejro The Shaman.png">UNH</set>
+			<color>r</color>
+			<color>g</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Summon Squad - Blue</name>
+            <set picURL="Summon Squad - Blue.png">UNH</set>
+			<color>u</color>
+			<color>B</color>
+			<color>g</color>
+			<type>Sorcery</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Summon Squad - Green</name>
+            <set picURL="Summon Squad - Green.png">UNH</set>
+			<color>g</color>
+			<color>r</color>
+			<color>u</color>
+			<type>Sorcery</type>
+			<cmc>20</cmc>
+        </card><card>
+            <name>Summon Squad - Red</name>
+            <set picURL="Summon Squad - Red.png">UNH</set>
+			<color>r</color>
+			<color>g</color>
+			<color>w</color>
+			<type>Sorcery</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Sunrise Delight</name>
+            <set picURL="Sunrise Delight.png">UNH</set>
+			<color>B</color>
+			<color>w</color>
+			<type>Enchantment</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Teleportation Time</name>
+            <set picURL="Teleportation Time.png">UNH</set>
+			<color>u</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>The Field Of Justice</name>
+            <set picURL="The Field Of Justice.png">UNH</set>
+			<color>w</color>
+			<color>r</color>
+			<type>Enchantment</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Tropical Morning</name>
+            <set picURL="Tropical Morning.png">UNH</set>
+			<color>g</color>
+			<color>u</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Uncharted Boundaries</name>
+            <set picURL="Uncharted Boundaries.png">UNH</set>
+			<color>w</color>
+			<color>g</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Wielka Polana</name>
+            <set picURL="Wielka Polana.png">UNH</set>
+			<color>r</color>
+			<color>g</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card><card>
+            <name>Wiercik The Express</name>
+            <set picURL="Wiercik The Express.png">UNH</set>
+			<color>r</color>
+			<color>w</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Wiercik The Tank</name>
+            <set picURL="Wiercik The Tank.png">UNH</set>
+			<color>w</color>
+			<color>r</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Wiercik The Viking</name>
+            <set picURL="Wiercik The Viking.png">UNH</set>
+			<color>r</color>
+			<color>w</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Wierza Widokowa</name>
+            <set picURL="Wierza Widokowa.png">UNH</set>
+			<color>u</color>
+			<color>g</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Yes</name>
+            <set picURL="Yes.png">UNH</set>
+			<color>u</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Young Rogue</name>
+            <set picURL="Young Rogue.png">UNH</set>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Ledzion The Alcomancer</name>
+            <set picURL="Ledzion The Alcomancer.png">UNH</set>
+			<color>u</color>
+			<color>r</color>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Low Octane Rider</name>
+            <set picURL="Low Octane Rider.png">UNH</set>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>The Bringer of Sobriety</name>
+            <set picURL="The Bringer of Sobriety.png">UNH</set>
+			<type>Creature</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Wiercik's Party Lot</name>
+            <set picURL="Wiercik's Party Lot.png">UNH</set>
+			<color>w</color>
+			<color>r</color>
+			<color>b</color>
+			<type>Enchantment</type>
+			<cmc>20</cmc>
+        </card>
+		<card>
+            <name>Dissatisfaction</name>
+            <set picURL="Dissatisfaction.jpg">UNH</set>
+			<color>w</color>
+			<color>u</color>
+			<type>Instant</type>
+			<cmc>20</cmc>
+        </card>
+    </cards>
+</cockatrice_carddatabase>
