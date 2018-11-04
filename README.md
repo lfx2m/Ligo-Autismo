@@ -99,6 +99,8 @@ Add Mana ----
 
 Regenerate -- 
 
+Reach ------- Random Med-Student
+
 Kingdoms
 ==========
 
