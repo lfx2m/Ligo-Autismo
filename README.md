@@ -49,7 +49,7 @@ Deathtouch --
 
 Lifelink ---- 
 
-Discard ----- 
+Discard ----- Kreimann
 
 Sacrifice --- Random Gopnik 
 
