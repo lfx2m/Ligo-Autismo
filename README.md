@@ -43,7 +43,9 @@ Colours
 ==========
 
 ----------------
-BLACK
+BLACK (4) 
+----------------
+Deathtouch, Lifelink - Tom The Terrorist
 ----------------
 Deathtouch -- 
 
@@ -51,10 +53,12 @@ Lifelink ----
 
 Discard ----- Kreimann
 
-Sacrifice --- Random Gopnik 
+Sacrifice --- Random Gopnik, Carrie The Chainsmoker
 
 ----------------
-BLUE
+BLUE (2) 
+----------------
+Debuf - Wet Water
 ----------------
 Flying ---------- 
 
@@ -65,7 +69,11 @@ Draw Card ------- Selwuch
 Scry ------------
 
 ----------------
-WHITE
+WHITE (3) 
+----------------
+The Dreamy Bo
+The Drunk Bo
+The Musician Bo
 ----------------
 
 Vigilance -----
@@ -77,7 +85,7 @@ Exalted -------
 First Strike -- 
 
 ----------------
-RED
+RED (1) 
 ----------------
 
 Haste ---------- Random Girl 
@@ -89,8 +97,12 @@ Menace ---------
 Deal Demage ----
 
 ----------------
-GREEN
+GREEN (3) 
 ----------------
+Steal - The Tobacco Beggers
+----------------
+Overload ---- Functional Junkies
+
 Trample ----- 
 
 Haxproof ---- 
@@ -105,7 +117,7 @@ Kingdoms
 ==========
 
 ----------
-House Dimir - Kamil
+House Dimir - Kamil () b(4) u(2)
 ----------
 Black-Blue -- Cipher
 
@@ -114,7 +126,7 @@ Deathtouch -- Unblockable -- Detain -- Draw Card --
 Flying -- Affinity for Artefacts -- Persist -- Fear -- Hexsproof -- Tap -- Unsummon -- Protection from Green -- 
 
 ----------
-Gruul Clans - Stefan
+Gruul Clans - Stefan (0) r(1) g(3)
 ----------
 Red-Green -- Bloodrush 
 
@@ -123,7 +135,7 @@ Trample -- Haste -- Double strike -- Cascade --
 Cycling -- Add Mana -- Reach -- Shroud -- Landfall -- Protection from Blue -- 
 
 ----------
-Boros Legion - Wiercik
+Boros Legion - Wiercik (0) w(3) r(1)
 ----------
 White-Red -- Battalion 
 
@@ -132,7 +144,9 @@ First Strike -- Menace -- Haste -- Vigilance --
 Double Strike -- Lifelink -- 
 
 ----------
-Azorius Senate - Borsuk
+Azorius Senate - Borsuk (1) w(3) b(2)
+----------
+Flash, First Strike - Alto The Tourist
 ----------
 White-Blue -- Detain 
 
@@ -141,7 +155,7 @@ Flying -- Exalted -- Flash -- Scry --
 Hexsproof -- Protection from Enchantments -- Shroud -- Lifelink -- Defender -- Protection from Red -- 
 
 ----------
-Golgari Swarm - Borsuk 2.0
+Golgari Swarm - Borsuk 2.0 (0) b(4) g(3)
 ----------
 Green-Black -- Scavenge 
 
@@ -150,7 +164,7 @@ Regenerate -- Devour -- Dredge -- Sacrifice --
 Trample -- Unearth -- Wither -- 
 
 ----------
-Izzet League - Ledzion
+Izzet League - Ledzion (0) u(2) r(1) 
 ----------
 Blue-Red -- Overload 
 
@@ -159,7 +173,9 @@ Return to Hand -- Raid -- Can't be Countered -- Deal X Demage --
 Flying -- Haste -- Flash -- Draw Card -- 
 
 ----------
-Selesnya Conclave - Madzia
+Selesnya Conclave - Madzia (1) w(3) g(3)
+----------
+Defender, Monstrosity - Ludwiczek The Snorlax
 ----------
 Green-White -- Populate 
 
@@ -168,7 +184,7 @@ Add Mana -- Shroud -- Monstrosity -- Vigilance --
 Trample -- Lifelink -- Exalted -- Protetion from Black -- 
 
 ----------
-Cult of Rakdos - Pietro
+Cult of Rakdos - Pietro (0) b(4) r(1)
 ----------
 Black-Red -- Unleash 
 
@@ -177,7 +193,10 @@ Destroy -- Hellbent -- Menace -- Discard --
 Attacking Creatures get +2/+0 -- Sacrifice to do 1 Dmg -- Protection from White -- 
 
 ----------
-Orzhov Syndicate - Maxym
+Orzhov Syndicate - Krisy (2) b(4) w(3) 
+----------
+Extort - The Ma'am Effect
+Soulbond - The Special Ones
 ----------
 Black-White -- Extort 
 
