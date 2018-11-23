@@ -71,8 +71,8 @@ Scry ------------
 ----------------
 WHITE (3) 
 ----------------
-The Dreamy Bo
-The Drunk Bo
+The Dreamy Bo\
+The Drunk Bo\
 The Musician Bo
 ----------------
 
