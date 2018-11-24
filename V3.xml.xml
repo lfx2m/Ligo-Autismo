@@ -14,14 +14,40 @@
             <cipt>0</cipt>
         </card>
         -->
-        </card><card>
-            <name>Caffe Italiano</name>
-            <set picURL="Caffe Italiano.png">UNH</set>
-			<color>r</color>
-			<color>w</color>
+	    
+	<card>
+            <name>Boar Territory</name>
+            <set picURL="Boar Territory.png">UNH</set>
 			<color>g</color>
 			<type>Land</type>
 			<cmc>20</cmc>
         </card>
-    </cards>
+	<card>
+            <name>Gryfia Stocznia Remontowa</name>
+            <set picURL="Gryfia Stocznia Remontowa.png">UNH</set>
+			<color>u</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>
+	<card>
+            <name>Mountain</name>
+            <set picURL="Mountain.png">UNH</set>
+			<color>r</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>    
+	<card>
+            <name>Plains</name>
+            <set picURL="Plains.png">UNH</set>
+			<color>r</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>   	    
+	<card>
+            <name>Synthetic Fuel Factory</name>
+            <set picURL="Synthetic Fuel Factory.png">UNH</set>
+			<color>b</color>
+			<type>Land</type>
+			<cmc>20</cmc>
+        </card>       </cards>
 </cockatrice_carddatabase>
