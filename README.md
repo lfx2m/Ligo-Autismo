@@ -36,7 +36,8 @@ WHITE (3)
 ----------------
 The Dreamy Bo\
 The Drunk Bo\
-The Musician Bo
+The Musician Bo\
+Vigilance - The Sheriff
 ----------------
 
 Vigilance -----
@@ -48,10 +49,10 @@ Exalted -------
 First Strike -- 
 
 ----------------
-RED (1) 
+RED (0)
 ----------------
 
-Haste ---------- Random Girl 
+Haste ----------  
 
 Double Strike -- 
 
@@ -60,7 +61,7 @@ Menace ---------
 Deal Demage ----
 
 ----------------
-GREEN (3) 
+GREEN (4) 
 ----------------
 Steal - The Tobacco Beggers
 ----------------
@@ -68,7 +69,7 @@ Overload ---- Functional Junkies
 
 Trample ----- 
 
-Hexproof ---- 
+Hexproof ---- Filip The Rebel
 
 Add Mana ---- 
 
@@ -120,7 +121,12 @@ Flying -- Exalted -- Flash -- Scry --
 Hexsproof -- Protection from Enchantments -- Shroud -- Lifelink -- Defender -- Protection from Red -- 
 
 ----------
-Golgari Swarm - Borsuk 2.0 (0) b(4) g(3)
+Golgari Swarm - Borsuk 2.0 (4) b(4) g(3)
+----------
+Wither, Regenerate - Filip The Martyr\
+Dredge - Filip The Player\
+Heste, Undergrowth - The Levitating Wizard\
+Devour, Exile - The Logic Master
 ----------
 Green-Black -- Scavenge 
 
@@ -149,7 +155,9 @@ Add Mana -- Shroud -- Monstrosity -- Vigilance --
 Trample -- Lifelink -- Exalted -- Protetion from Black -- 
 
 ----------
-Cult of Rakdos - Pietro (0) b(4) r(1)
+Cult of Rakdos - Pietro (1) b(4) r(1)
+----------
+Menace, Sacrifice - The Glesner Collision
 ----------
 Black-Red -- Unleash 
 
