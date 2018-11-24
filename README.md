@@ -6,7 +6,7 @@ Kingdoms
 ==========
 
 ----------
-House Dimir - Kamil (1) b(4) u(2)
+House Dimir - Kamil c(2) s(1) b() u()
 ----------
 Planeswalker - Kamil of the Kasztelan
 ----------
@@ -23,7 +23,7 @@ Acid Rain
 3) Flying -- Affinity for Artefacts -- Persist -- Fear -- Hexsproof -- Tap -- Unsummon -- Protection from Green -- 
 
 ----------
-Gruul Clans - Stefan (1) r(1) g(3)
+Gruul Clans - Stefan c(3) s(1) r(1) gc(4) gs(1)
 ----------
 Planeswalker - Sztefanejro The Climber
 ---------
@@ -43,7 +43,7 @@ Resonance Cascade
 3) Cycling -- Add Mana -- Reach -- Shroud -- Landfall -- Protection from Blue -- 
 
 ----------
-Orzhov Syndicate - Krisy (2) b(4) w(3) 
+Orzhov Syndicate - Krisy c(3) s(0) b() w() 
 ----------
 Extort ------------------------ The Ma'am Effect
 
@@ -58,7 +58,7 @@ Flying, Deathtouch ------------ Angel From Hell
 3) Sacrifice to Gain 1 Life and Oponent Loose 1 Life -- Tap Target Creature Unless Oponent Pays 2 Life -- 
 
 ----------
-Golgari Swarm - Borsuk 2.0 (4) b(4) g(3)
+Golgari Swarm - Borsuk 2.0 c(4) s(1) b() gc(4) gs(1)
 ----------
 Wither, Regenerate ----- Filip The Martyr
 
@@ -80,7 +80,7 @@ Successful Invasion
 3) Trample -- Unearth -- Wither -- 
 
 ----------
-Boros Legion - Wiercik (0) w(3) r(1)
+Boros Legion - Wiercik c(0) s(1) w() r()
 ----------
 
 spells
@@ -95,7 +95,7 @@ Ride To The Future
 3) Double Strike -- Lifelink -- 
 
 ----------
-Azorius Senate - Borsuk (1) w(3) b(2)
+Azorius Senate - Borsuk c(1) s(3) w(3) b(2)
 ----------
 Flash, First Strike ------------- Alto The Tourist
 
@@ -115,7 +115,7 @@ Dissatisfaction
 3) Hexsproof -- Protection from Enchantments -- Shroud -- Lifelink -- Defender -- Protection from Red -- 
 
 ----------
-Izzet League - Ledzion (0) u(2) r(1) 
+Izzet League - Ledzion c(0) s(1) u(2) r(1) 
 ----------
 
 spells
@@ -130,7 +130,7 @@ Leaf Of Faith
 3) Flying -- Haste -- Flash -- Draw Card -- 
 
 ----------
-Selesnya Conclave - Madzia (1) w(3) g(3)
+Selesnya Conclave - Madzia c(1) s(1) w(3) g(3)
 ----------
 Defender, Monstrosity ------------- Ludwiczek The Snorlax
 
@@ -146,7 +146,7 @@ Mysterious Lake
 3) Trample -- Lifelink -- Exalted -- Protetion from Black -- 
 
 ----------
-Cult of Rakdos - Pietro (1) b(4) r(1)
+Cult of Rakdos - Pietro c(1) s(2) b(4) r(1)
 ----------
 Menace, Sacrifice --------------- The Glesner Collision
 
@@ -176,7 +176,7 @@ Colours
 ==========
 
 ----------------
-BLACK (4) 
+BLACK bc(4) bs(3)
 ----------------
 Deathtouch, Lifelink ---- Tom The Terrorist
 
@@ -198,7 +198,7 @@ The Abyss
 The Potter Overload
 
 ----------------
-BLUE (3) 
+BLUE uc(3) us(2) 
 ----------------
 Debuf ----------- Wet Water
 
@@ -218,7 +218,7 @@ Co Kurwa
 When Hell Freezes Over
 
 ----------------
-WHITE (3) 
+WHITE wc(4) ws(1)
 ----------------
 ---------------- The Dreamy Bo
 
@@ -240,7 +240,7 @@ spells
 The Wisdom Tree
 
 ----------------
-RED (3)
+RED rc(3) rs(2)
 ----------------
 
 Indestructible ----- Village Elder
@@ -263,13 +263,8 @@ Doomsday
 The Symbol
 
 --------------------
-GREEN (4) 
+GREEN gc(4) gs(1)
 ----------------
-
-spells
---------
-
-Stoner's Bay
 
 Steal ------- The Tobacco Beggers
 
@@ -284,6 +279,11 @@ Add Mana ----
 Regenerate -- 
 
 Reach ------- Random Med-Student
+
+spells
+--------
+
+Stoner's Bay
 
 Lands
 ==========
