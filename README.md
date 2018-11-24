@@ -49,7 +49,7 @@ Exalted -------
 First Strike -- 
 
 ----------------
-RED (0)
+RED (1)
 ----------------
 
 Haste ----------  
@@ -58,7 +58,7 @@ Double Strike --
 
 Menace --------- 
 
-Deal Demage ----
+Deal Demage ---- Sundarananda Suaboglowy
 
 ----------------
 GREEN (4) 
