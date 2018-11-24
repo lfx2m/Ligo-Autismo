@@ -8,15 +8,15 @@ Colours
 ----------------
 BLACK (4) 
 ----------------
-Deathtouch, Lifelink - Tom The Terrorist
+Deathtouch, Lifelink ---- Tom The Terrorist
 
-Deathtouch -- 
+Deathtouch --------------
 
-Lifelink ---- 
+Lifelink ---------------- 
 
-Discard ----- Kreimann
+Discard ----------------- Kreimann
 
-Sacrifice --- Random Gopnik, Carrie The Chainsmoker
+Sacrifice --------------- Random Gopnik, Carrie The Chainsmoker
 
 ----------------
 BLUE (3) 
@@ -34,40 +34,40 @@ Scry ------------ Jakub Kuba Kregiel Rondomanski
 ----------------
 WHITE (3) 
 ----------------
-The Dreamy Bo
+---------------- The Dreamy Bo
 
-The Drunk Bo
+---------------- The Drunk Bo
 
-The Musician Bo
+---------------- The Musician Bo
 
-Vigilance ----- The Sheriff
+Vigilance ------ The Sheriff
 
-Flash --------- 
+Flash ---------- 
 
-Exalted ------- 
+Exalted -------- 
 
-First Strike -- 
+First Strike --- 
 
 ----------------
 RED (3)
 ----------------
 
-Indestructible - Village Elder
+Indestructible ----- Village Elder
 
-Cycling -------- Kacper
+Cycling ------------ Kacper
 
-Haste ----------  
+Haste --------------  
 
-Double Strike -- 
+Double Strike ------ 
 
-Menace --------- 
+Menace ------------- 
 
-Deal Demage ---- Sundarananda Suaboglowy
+Deal Demage -------- Sundarananda Suaboglowy
 
-----------------
+--------------------
 GREEN (4) 
 ----------------
-Steal - The Tobacco Beggers
+Steal ------- The Tobacco Beggers
 
 Overload ---- Functional Junkies
 
@@ -99,8 +99,8 @@ Flying -- Affinity for Artefacts -- Persist -- Fear -- Hexsproof -- Tap -- Unsum
 Gruul Clans - Stefan (1) r(1) g(3)
 ----------
 Planeswalker - Sztefanejro The Climber
-
-Haste, Trample - The Clutch Master
+---------
+Haste, Trample --------- The Clutch Master
 
 Add Mana - Sztefanejro The Poker Player
 
@@ -133,11 +133,14 @@ Hexsproof -- Protection from Enchantments -- Shroud -- Lifelink -- Defender -- P
 ----------
 Golgari Swarm - Borsuk 2.0 (4) b(4) g(3)
 ----------
-Wither, Regenerate - Filip The Martyr\
-Dredge - Filip The Player\
-Heste, Undergrowth - The Levitating Wizard\
-Devour, Exile - The Logic Master
-----------
+Wither, Regenerate ----- Filip The Martyr
+
+Dredge ----------------- Filip The Player
+
+Heste, Undergrowth ----- The Levitating Wizard
+
+Devour, Exile ---------- The Logic Master
+
 Green-Black -- Scavenge 
 
 Regenerate -- Devour -- Dredge -- Sacrifice -- 
