@@ -36,11 +36,10 @@ WHITE (3)
 ----------------
 The Dreamy Bo\
 The Drunk Bo\
-The Musician Bo\
-Vigilance - The Sheriff
+The Musician Bo
 ----------------
 
-Vigilance -----
+Vigilance ----- The Sheriff
 
 Flash --------- 
 
