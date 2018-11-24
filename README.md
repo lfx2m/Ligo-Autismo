@@ -68,7 +68,7 @@ Overload ---- Functional Junkies
 
 Trample ----- 
 
-Haxproof ---- 
+Hexproof ---- 
 
 Add Mana ---- 
 
