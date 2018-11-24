@@ -9,7 +9,7 @@ Colours
 BLACK (4) 
 ----------------
 Deathtouch, Lifelink - Tom The Terrorist
-----------------
+
 Deathtouch -- 
 
 Lifelink ---- 
@@ -21,8 +21,8 @@ Sacrifice --- Random Gopnik, Carrie The Chainsmoker
 ----------------
 BLUE (3) 
 ----------------
-Debuf - Wet Water
-----------------
+Debuf ----------- Wet Water
+
 Flying ---------- 
 
 Return to Hand -- 
@@ -34,10 +34,11 @@ Scry ------------ Jakub Kuba Kregiel Rondomanski
 ----------------
 WHITE (3) 
 ----------------
-The Dreamy Bo\
-The Drunk Bo\
+The Dreamy Bo
+
+The Drunk Bo
+
 The Musician Bo
-----------------
 
 Vigilance ----- The Sheriff
 
@@ -67,7 +68,7 @@ Deal Demage ---- Sundarananda Suaboglowy
 GREEN (4) 
 ----------------
 Steal - The Tobacco Beggers
-----------------
+
 Overload ---- Functional Junkies
 
 Trample ----- 
@@ -97,11 +98,12 @@ Flying -- Affinity for Artefacts -- Persist -- Fear -- Hexsproof -- Tap -- Unsum
 ----------
 Gruul Clans - Stefan (1) r(1) g(3)
 ----------
-Planeswalker - Sztefanejro The Climber\
-Haste, Trample - The Clutch Master\
+Planeswalker - Sztefanejro The Climber
+
+Haste, Trample - The Clutch Master
+
 Add Mana - Sztefanejro The Poker Player
 
-----------
 Red-Green -- Bloodrush 
 
 Trample -- Haste -- Double strike -- Cascade -- 
@@ -121,7 +123,7 @@ Double Strike -- Lifelink --
 Azorius Senate - Borsuk (1) w(3) b(2)
 ----------
 Flash, First Strike - Alto The Tourist
-----------
+
 White-Blue -- Detain 
 
 Flying -- Exalted -- Flash -- Scry -- 
@@ -155,7 +157,7 @@ Flying -- Haste -- Flash -- Draw Card --
 Selesnya Conclave - Madzia (1) w(3) g(3)
 ----------
 Defender, Monstrosity - Ludwiczek The Snorlax
-----------
+
 Green-White -- Populate 
 
 Add Mana -- Shroud -- Monstrosity -- Vigilance -- 
@@ -166,7 +168,7 @@ Trample -- Lifelink -- Exalted -- Protetion from Black --
 Cult of Rakdos - Pietro (1) b(4) r(1)
 ----------
 Menace, Sacrifice - The Glesner Collision
-----------
+
 Black-Red -- Unleash 
 
 Destroy -- Hellbent -- Menace -- Discard -- 
@@ -177,8 +179,9 @@ Attacking Creatures get +2/+0 -- Sacrifice to do 1 Dmg -- Protection from White 
 Orzhov Syndicate - Krisy (2) b(4) w(3) 
 ----------
 Extort - The Ma'am Effect
+
 Soulbond - The Special Ones
-----------
+
 Black-White -- Extort 
 
 Lifelink -- Destroy -- Flanking -- Dethtouch -- 
