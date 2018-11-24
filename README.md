@@ -48,8 +48,10 @@ Exalted -------
 First Strike -- 
 
 ----------------
-RED (2)
+RED (3)
 ----------------
+
+Indestructible - Village Elder
 
 Cycling -------- Kacper
 
