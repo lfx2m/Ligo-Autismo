@@ -1,43 +1,6 @@
 |==========================|
 | Ligo Autismo Master Plan |
 |==========================|
-
-Currently Working On:
-=====================
-
-Random People We know 
-
-{3}/{20}
-
-1.Random Gopnik 
-
-Random Gopnik who can Climb
-
-{(1)(B)}
-
-Sacrifice Random Gopnik that can Climb: Target player discards a card from hir or her hand. 
-
-<i>This guy rolls along anything that happens around him</i>
-
-{1}{1}
-
-Lands
-==========
-
-|               |Dimir    |Gruul  |Boros  |Azorius        |Golgari        |Izzet  |Selesnya       |Rakdos |Orzov  |Simic  |
-|---            |---      |---    |---    |---            |---            |---    |---            |---    |---    |---    |
-|Double Colour  |B        |B      |B      |               |B              |B      |B              |B      |       |B      |
-|Mana Swappers  |B        |B      |B      |               |               |       |B              |       |       |B      |
-|Guildgates     |B        |B      |B      |B              |               |       |               |       |B      |B      |
-
-A = Photo Candidate is added to Photos-for-Cards 
-    First, add photos here so a rework is possible.
-
-B = 1.0 Card is added to V1-Cards
-    All cards land here.
-
-C = 2.0 Card is added to V2-Cards
-    No cards go here just yet, they need approval from testing and ballancing. 
     
 Colours
 ==========
@@ -117,7 +80,7 @@ Kingdoms
 ==========
 
 ----------
-House Dimir - Kamil () b(4) u(2)
+House Dimir - Kamil (0) b(4) u(2)
 ----------
 Black-Blue -- Cipher
 
@@ -126,7 +89,9 @@ Deathtouch -- Unblockable -- Detain -- Draw Card --
 Flying -- Affinity for Artefacts -- Persist -- Fear -- Hexsproof -- Tap -- Unsummon -- Protection from Green -- 
 
 ----------
-Gruul Clans - Stefan (0) r(1) g(3)
+Gruul Clans - Stefan (1) r(1) g(3)
+----------
+Planeswalker - Sztefanejro The Climber
 ----------
 Red-Green -- Bloodrush 
 
@@ -212,3 +177,21 @@ Green-Blue -- Evolve
 Graft -- Regenreate -- Hexproof -- Draw Card -- 
 
 Can't be Countered -- Trample -- Add Mana -- Flash -- Unblockable -- Untap Target Permanent -- Unsummon -- 
+
+Lands
+==========
+
+|               |Dimir    |Gruul  |Boros  |Azorius        |Golgari        |Izzet  |Selesnya       |Rakdos |Orzov  |Simic  |
+|---            |---      |---    |---    |---            |---            |---    |---            |---    |---    |---    |
+|Double Colour  |B        |B      |B      |               |B              |B      |B              |B      |       |B      |
+|Mana Swappers  |B        |B      |B      |               |               |       |B              |       |       |B      |
+|Guildgates     |B        |B      |B      |B              |               |       |               |       |B      |B      |
+
+A = Photo Candidate is added to Photos-for-Cards 
+    First, add photos here so a rework is possible.
+
+B = 1.0 Card is added to V1-Cards
+    All cards land here.
+
+C = 2.0 Card is added to V2-Cards
+    No cards go here just yet, they need approval from testing and ballancing. 
