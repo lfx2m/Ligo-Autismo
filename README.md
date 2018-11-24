@@ -29,7 +29,7 @@ Return to Hand --
 
 Draw Card ------- Selwuch
 
-Scry ------------
+Scry ------------ Jakub Kuba Kregiel Rondomanski
 
 ----------------
 WHITE (3) 
