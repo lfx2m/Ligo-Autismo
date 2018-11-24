@@ -48,8 +48,10 @@ Exalted -------
 First Strike -- 
 
 ----------------
-RED (1)
+RED (2)
 ----------------
+
+Cycling -------- Kacper
 
 Haste ----------  
 
