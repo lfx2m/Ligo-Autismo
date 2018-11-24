@@ -12,6 +12,10 @@ Planeswalker - Kamil of the Kasztelan
 ----------
 Debuf, Unblockable -------------The Lungdragon Kamil
 
+Spells
+----------
+Acid Rain
+
 1) Black-Blue -- Cipher
 
 2) Deathtouch -- Unblockable -- Detain -- Draw Card -- 
@@ -27,6 +31,11 @@ Haste, Trample ---------- The Clutch Master
 
 Add Mana --------------- Sztefanejro The Poker Player
 
+spells
+---------
+
+Resonance Cascade
+
 1) Red-Green -- Bloodrush 
 
 2) Trample -- Haste -- Double strike -- Cascade -- 
@@ -39,6 +48,8 @@ Orzhov Syndicate - Krisy (2) b(4) w(3)
 Extort ------------------------ The Ma'am Effect
 
 Soulbond ---------------------- The Special Ones
+
+Flying, Deathtouch ------------ Angel From Hell
 
 1) Black-White -- Extort 
 
@@ -57,6 +68,11 @@ Heste, Undergrowth ----- The Levitating Wizard
 
 Devour, Exile ---------- The Logic Master
 
+spells
+----------
+
+Successful Invasion
+
 1) Green-Black -- Scavenge 
 
 2) Regenerate -- Devour -- Dredge -- Sacrifice -- 
@@ -66,6 +82,12 @@ Devour, Exile ---------- The Logic Master
 ----------
 Boros Legion - Wiercik (0) w(3) r(1)
 ----------
+
+spells
+--------
+
+Ride To The Future
+
 1) White-Red -- Battalion 
 
 2) First Strike -- Menace -- Haste -- Vigilance -- 
@@ -77,6 +99,15 @@ Azorius Senate - Borsuk (1) w(3) b(2)
 ----------
 Flash, First Strike ------------- Alto The Tourist
 
+Spells
+----------
+
+Detrimental Failure
+
+Freeze
+
+Dissatisfaction
+
 1) White-Blue -- Detain 
 
 2) Flying -- Exalted -- Flash -- Scry -- 
@@ -86,6 +117,12 @@ Flash, First Strike ------------- Alto The Tourist
 ----------
 Izzet League - Ledzion (0) u(2) r(1) 
 ----------
+
+spells
+---------
+
+Leaf Of Faith
+
 1) Blue-Red -- Overload 
 
 2) Return to Hand -- Raid -- Can't be Countered -- Deal X Demage -- 
@@ -97,6 +134,11 @@ Selesnya Conclave - Madzia (1) w(3) g(3)
 ----------
 Defender, Monstrosity ------------- Ludwiczek The Snorlax
 
+spells
+-----------
+
+Mysterious Lake
+
 1) Green-White -- Populate 
 
 2) Add Mana -- Shroud -- Monstrosity -- Vigilance -- 
@@ -107,6 +149,13 @@ Defender, Monstrosity ------------- Ludwiczek The Snorlax
 Cult of Rakdos - Pietro (1) b(4) r(1)
 ----------
 Menace, Sacrifice --------------- The Glesner Collision
+
+spells
+-----------
+
+Rays of Gold
+
+Nuclear Winter
 
 1) Black-Red -- Unleash 
 
@@ -139,6 +188,15 @@ Discard ----------------- Kreimann
 
 Sacrifice --------------- Random Gopnik, Carrie The Chainsmoker
 
+spells
+--------
+
+Scientologist's Mansion
+
+The Abyss
+
+The Potter Overload
+
 ----------------
 BLUE (3) 
 ----------------
@@ -151,6 +209,13 @@ Return to Hand --
 Draw Card ------- Selwuch
 
 Scry ------------ Jakub Kuba Kregiel Rondomanski
+
+Spells
+-------
+
+Co Kurwa
+
+When Hell Freezes Over
 
 ----------------
 WHITE (3) 
@@ -169,6 +234,11 @@ Exalted --------
 
 First Strike --- 
 
+spells
+--------
+
+The Wisdom Tree
+
 ----------------
 RED (3)
 ----------------
@@ -185,9 +255,22 @@ Menace -------------
 
 Deal Demage -------- Sundarananda Suaboglowy
 
+Spells
+--------
+
+Doomsday
+
+The Symbol
+
 --------------------
 GREEN (4) 
 ----------------
+
+spells
+--------
+
+Stoner's Bay
+
 Steal ------- The Tobacco Beggers
 
 Overload ---- Functional Junkies
@@ -210,6 +293,8 @@ Lands
 |Double Colour  |B        |B      |B      |               |B              |B      |B              |B      |       |B      |
 |Mana Swappers  |B        |B      |B      |               |               |       |B              |B      |       |B      |
 |Guildgates     |B        |B      |B      |B              |               |       |B              |       |B      |B      |
+
+Double Rainbow
 
 A = Photo Candidate is added to Photos-for-Cards 
     First, add photos here so a rework is possible.
