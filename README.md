@@ -19,7 +19,7 @@ Discard ----- Kreimann
 Sacrifice --- Random Gopnik, Carrie The Chainsmoker
 
 ----------------
-BLUE (2) 
+BLUE (3) 
 ----------------
 Debuf - Wet Water
 ----------------
@@ -29,18 +29,17 @@ Return to Hand --
 
 Draw Card ------- Selwuch
 
-Scry ------------
+Scry ------------ Jakub Kuba Kregiel Rondomanski
 
 ----------------
 WHITE (3) 
 ----------------
 The Dreamy Bo\
 The Drunk Bo\
-The Musician Bo\
-Vigilance - The Sheriff
+The Musician Bo
 ----------------
 
-Vigilance -----
+Vigilance ----- The Sheriff
 
 Flash --------- 
 
@@ -49,8 +48,12 @@ Exalted -------
 First Strike -- 
 
 ----------------
-RED (0)
+RED (3)
 ----------------
+
+Indestructible - Village Elder
+
+Cycling -------- Kacper
 
 Haste ----------  
 
@@ -58,7 +61,7 @@ Double Strike --
 
 Menace --------- 
 
-Deal Demage ----
+Deal Demage ---- Sundarananda Suaboglowy
 
 ----------------
 GREEN (4) 
@@ -81,7 +84,9 @@ Kingdoms
 ==========
 
 ----------
-House Dimir - Kamil (0) b(4) u(2)
+House Dimir - Kamil (1) b(4) u(2)
+----------
+Planeswalker - Kamil of the Kasztelan
 ----------
 Black-Blue -- Cipher
 
@@ -192,8 +197,8 @@ Lands
 |               |Dimir    |Gruul  |Boros  |Azorius        |Golgari        |Izzet  |Selesnya       |Rakdos |Orzov  |Simic  |
 |---            |---      |---    |---    |---            |---            |---    |---            |---    |---    |---    |
 |Double Colour  |B        |B      |B      |               |B              |B      |B              |B      |       |B      |
-|Mana Swappers  |B        |B      |B      |               |               |       |B              |       |       |B      |
-|Guildgates     |B        |B      |B      |B              |               |       |               |       |B      |B      |
+|Mana Swappers  |B        |B      |B      |               |               |       |B              |B      |       |B      |
+|Guildgates     |B        |B      |B      |B              |               |       |B              |       |B      |B      |
 
 A = Photo Candidate is added to Photos-for-Cards 
     First, add photos here so a rework is possible.
