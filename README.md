@@ -98,6 +98,8 @@ Flying -- Affinity for Artefacts -- Persist -- Fear -- Hexsproof -- Tap -- Unsum
 Gruul Clans - Stefan (1) r(1) g(3)
 ----------
 Planeswalker - Sztefanejro The Climber
+
+Haste, Trample - The Clutch Master
 ----------
 Red-Green -- Bloodrush 
 
