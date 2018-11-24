@@ -19,7 +19,7 @@ Discard ----- Kreimann
 Sacrifice --- Random Gopnik, Carrie The Chainsmoker
 
 ----------------
-BLUE (2) 
+BLUE (3) 
 ----------------
 Debuf - Wet Water
 ----------------
