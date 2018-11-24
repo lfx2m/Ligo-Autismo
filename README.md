@@ -84,7 +84,9 @@ Kingdoms
 ==========
 
 ----------
-House Dimir - Kamil (0) b(4) u(2)
+House Dimir - Kamil (1) b(4) u(2)
+----------
+Planeswalker - Kamil of the Kasztelan
 ----------
 Black-Blue -- Cipher
 
