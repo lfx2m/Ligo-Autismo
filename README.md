@@ -89,6 +89,8 @@ House Dimir - Kamil (1) b(4) u(2)
 ----------
 Planeswalker - Kamil of the Kasztelan
 ----------
+Debuf, Unblockable -------------The Lungdragon Kamil
+
 Black-Blue -- Cipher
 
 Deathtouch -- Unblockable -- Detain -- Draw Card -- 
@@ -100,35 +102,35 @@ Gruul Clans - Stefan (1) r(1) g(3)
 ----------
 Planeswalker - Sztefanejro The Climber
 ---------
-Haste, Trample --------- The Clutch Master
+Haste, Trample ---------- The Clutch Master
 
-Add Mana - Sztefanejro The Poker Player
+Add Mana --------------- Sztefanejro The Poker Player
 
-Red-Green -- Bloodrush 
+1) Red-Green -- Bloodrush 
 
-Trample -- Haste -- Double strike -- Cascade -- 
+2) Trample -- Haste -- Double strike -- Cascade -- 
 
-Cycling -- Add Mana -- Reach -- Shroud -- Landfall -- Protection from Blue -- 
+3) Cycling -- Add Mana -- Reach -- Shroud -- Landfall -- Protection from Blue -- 
 
 ----------
 Boros Legion - Wiercik (0) w(3) r(1)
 ----------
-White-Red -- Battalion 
+1) White-Red -- Battalion 
 
-First Strike -- Menace -- Haste -- Vigilance -- 
+2) First Strike -- Menace -- Haste -- Vigilance -- 
 
-Double Strike -- Lifelink -- 
+3) Double Strike -- Lifelink -- 
 
 ----------
 Azorius Senate - Borsuk (1) w(3) b(2)
 ----------
-Flash, First Strike - Alto The Tourist
+Flash, First Strike ------------- Alto The Tourist
 
-White-Blue -- Detain 
+1) White-Blue -- Detain 
 
-Flying -- Exalted -- Flash -- Scry -- 
+2) Flying -- Exalted -- Flash -- Scry -- 
 
-Hexsproof -- Protection from Enchantments -- Shroud -- Lifelink -- Defender -- Protection from Red -- 
+3) Hexsproof -- Protection from Enchantments -- Shroud -- Lifelink -- Defender -- Protection from Red -- 
 
 ----------
 Golgari Swarm - Borsuk 2.0 (4) b(4) g(3)
@@ -141,64 +143,64 @@ Heste, Undergrowth ----- The Levitating Wizard
 
 Devour, Exile ---------- The Logic Master
 
-Green-Black -- Scavenge 
+1) Green-Black -- Scavenge 
 
-Regenerate -- Devour -- Dredge -- Sacrifice -- 
+2) Regenerate -- Devour -- Dredge -- Sacrifice -- 
 
-Trample -- Unearth -- Wither -- 
+3) Trample -- Unearth -- Wither -- 
 
 ----------
 Izzet League - Ledzion (0) u(2) r(1) 
 ----------
-Blue-Red -- Overload 
+1) Blue-Red -- Overload 
 
-Return to Hand -- Raid -- Can't be Countered -- Deal X Demage -- 
+2) Return to Hand -- Raid -- Can't be Countered -- Deal X Demage -- 
 
-Flying -- Haste -- Flash -- Draw Card -- 
+3) Flying -- Haste -- Flash -- Draw Card -- 
 
 ----------
 Selesnya Conclave - Madzia (1) w(3) g(3)
 ----------
-Defender, Monstrosity - Ludwiczek The Snorlax
+Defender, Monstrosity ------------- Ludwiczek The Snorlax
 
-Green-White -- Populate 
+1) Green-White -- Populate 
 
-Add Mana -- Shroud -- Monstrosity -- Vigilance -- 
+2) Add Mana -- Shroud -- Monstrosity -- Vigilance -- 
 
-Trample -- Lifelink -- Exalted -- Protetion from Black -- 
+3) Trample -- Lifelink -- Exalted -- Protetion from Black -- 
 
 ----------
 Cult of Rakdos - Pietro (1) b(4) r(1)
 ----------
-Menace, Sacrifice - The Glesner Collision
+Menace, Sacrifice --------------- The Glesner Collision
 
-Black-Red -- Unleash 
+1) Black-Red -- Unleash 
 
-Destroy -- Hellbent -- Menace -- Discard -- 
+2) Destroy -- Hellbent -- Menace -- Discard -- 
 
-Attacking Creatures get +2/+0 -- Sacrifice to do 1 Dmg -- Protection from White -- 
+3) Attacking Creatures get +2/+0 -- Sacrifice to do 1 Dmg -- Protection from White -- 
 
 ----------
 Orzhov Syndicate - Krisy (2) b(4) w(3) 
 ----------
-Extort - The Ma'am Effect
+Extort ------------------------ The Ma'am Effect
 
-Soulbond - The Special Ones
+Soulbond ---------------------- The Special Ones
 
-Black-White -- Extort 
+1) Black-White -- Extort 
 
-Lifelink -- Destroy -- Flanking -- Dethtouch -- 
+2) Lifelink -- Destroy -- Flanking -- Dethtouch -- 
 
-Sacrifice to Gain 1 Life and Oponent Loose 1 Life -- Tap Target Creature Unless Oponent Pays 2 Life -- 
+3) Sacrifice to Gain 1 Life and Oponent Loose 1 Life -- Tap Target Creature Unless Oponent Pays 2 Life -- 
 
 ----------
 Simic Combine - Boski
 ----------
-Green-Blue -- Evolve 
+1) Green-Blue -- Evolve 
 
-Graft -- Regenreate -- Hexproof -- Draw Card -- 
+2) Graft -- Regenreate -- Hexproof -- Draw Card -- 
 
-Can't be Countered -- Trample -- Add Mana -- Flash -- Unblockable -- Untap Target Permanent -- Unsummon -- 
+3) Can't be Countered -- Trample -- Add Mana -- Flash -- Unblockable -- Untap Target Permanent -- Unsummon -- 
 
 Lands
 ==========
