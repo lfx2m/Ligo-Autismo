@@ -6,7 +6,7 @@ Kingdoms
 ==========
 
 ----------
-House Dimir - Kamil c(2) s(1) b() u()
+House Dimir - Kamil c(2) s(1) bc(4) bs(3) uc(3) us(2) 
 ----------
 Planeswalker - Kamil of the Kasztelan
 ----------
@@ -23,7 +23,7 @@ Acid Rain
 3) Flying -- Affinity for Artefacts -- Persist -- Fear -- Hexsproof -- Tap -- Unsummon -- Protection from Green -- 
 
 ----------
-Gruul Clans - Stefan c(3) s(1) r(1) gc(4) gs(1)
+Gruul Clans - Stefan c(3) s(1) rc(3) rs(2) gc(4) gs(1) 
 ----------
 Planeswalker - Sztefanejro The Climber
 ---------
@@ -43,7 +43,7 @@ Resonance Cascade
 3) Cycling -- Add Mana -- Reach -- Shroud -- Landfall -- Protection from Blue -- 
 
 ----------
-Orzhov Syndicate - Krisy c(3) s(0) b() w() 
+Orzhov Syndicate - Krisy c(3) s(0) bc(4) bs(3) wc(4) ws(1) 
 ----------
 Extort ------------------------ The Ma'am Effect
 
@@ -58,7 +58,7 @@ Flying, Deathtouch ------------ Angel From Hell
 3) Sacrifice to Gain 1 Life and Oponent Loose 1 Life -- Tap Target Creature Unless Oponent Pays 2 Life -- 
 
 ----------
-Golgari Swarm - Borsuk 2.0 c(4) s(1) b() gc(4) gs(1)
+Golgari Swarm - Borsuk 2.0 c(4) s(1) bc(4) bs(3) gc(4) gs(1)
 ----------
 Wither, Regenerate ----- Filip The Martyr
 
@@ -80,7 +80,7 @@ Successful Invasion
 3) Trample -- Unearth -- Wither -- 
 
 ----------
-Boros Legion - Wiercik c(0) s(1) w() r()
+Boros Legion - Wiercik c(0) s(1) wc(4) ws(1) rc(3) rs(2)
 ----------
 
 spells
@@ -95,7 +95,7 @@ Ride To The Future
 3) Double Strike -- Lifelink -- 
 
 ----------
-Azorius Senate - Borsuk c(1) s(3) w(3) b(2)
+Azorius Senate - Borsuk c(1) s(3) uc(3) us(2) wc(4) ws(1)
 ----------
 Flash, First Strike ------------- Alto The Tourist
 
@@ -115,7 +115,7 @@ Dissatisfaction
 3) Hexsproof -- Protection from Enchantments -- Shroud -- Lifelink -- Defender -- Protection from Red -- 
 
 ----------
-Izzet League - Ledzion c(0) s(1) u(2) r(1) 
+Izzet League - Ledzion c(0) s(1) uc(3) us(2) rc(3) rs(2)
 ----------
 
 spells
@@ -130,7 +130,7 @@ Leaf Of Faith
 3) Flying -- Haste -- Flash -- Draw Card -- 
 
 ----------
-Selesnya Conclave - Madzia c(1) s(1) w(3) g(3)
+Selesnya Conclave - Madzia c(1) s(1) wc(4) ws(1) gc(4) gs(1)
 ----------
 Defender, Monstrosity ------------- Ludwiczek The Snorlax
 
@@ -146,7 +146,7 @@ Mysterious Lake
 3) Trample -- Lifelink -- Exalted -- Protetion from Black -- 
 
 ----------
-Cult of Rakdos - Pietro c(1) s(2) b(4) r(1)
+Cult of Rakdos - Pietro c(1) s(2) bc(4) bs(3) rc(3) rs(2)
 ----------
 Menace, Sacrifice --------------- The Glesner Collision
 
@@ -164,7 +164,7 @@ Nuclear Winter
 3) Attacking Creatures get +2/+0 -- Sacrifice to do 1 Dmg -- Protection from White -- 
 
 ----------
-Simic Combine - Boski
+Simic Combine - Boski c(0) s(0) uc(3) us(2) gc(4) gs(1)
 ----------
 1) Green-Blue -- Evolve 
 
@@ -176,7 +176,7 @@ Colours
 ==========
 
 ----------------
-BLACK bc(4) bs(3)
+BLACK bc(4) bs(3) 
 ----------------
 Deathtouch, Lifelink ---- Tom The Terrorist
 
@@ -218,7 +218,7 @@ Co Kurwa
 When Hell Freezes Over
 
 ----------------
-WHITE wc(4) ws(1)
+WHITE wc(4) ws(1) 
 ----------------
 ---------------- The Dreamy Bo
 
@@ -240,7 +240,7 @@ spells
 The Wisdom Tree
 
 ----------------
-RED rc(3) rs(2)
+RED rc(3) rs(2) 
 ----------------
 
 Indestructible ----- Village Elder
