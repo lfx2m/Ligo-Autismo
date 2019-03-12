@@ -1,20 +1,21 @@
 <cockatrice_carddatabase version="3">
     <cards>
-        <!-- TEMPLATE
-        <card>
-            <name></name>
-            <set picURL="">UNH</set>
-            <color></color>
-            <manacost></manacost>
-            <cmc>20</cmc>
-            <type></type>
-            <pt></pt>
-            <tablerow></tablerow>
-            <text></text>
-            <cipt>0</cipt>
+    <card>
+            <name>Resonance Cascade</name>
+            <set picURL="Resonance Cascade.png">UNH</set>
+			<color>g</color>
+            <color>r</color>
+			<type>Enchantment</type>
+			<cmc>20</cmc>
         </card>
-        -->
-	    
+    <card>
+            <name>Detrimental Failure</name>
+            <set picURL="Detrimental Failure.png">UNH</set>
+			<color>w</color>
+            <color>u</color>
+			<type>Enchantment</type>
+			<cmc>20</cmc>
+        </card>  
 	<card>
             <name>Boar Territory</name>
             <set picURL="Boar Territory.png">UNH</set>
@@ -49,5 +50,22 @@
 			<color>b</color>
 			<type>Land</type>
 			<cmc>20</cmc>
-        </card>       </cards>
+        </card>       
+        
+                <!-- TEMPLATE
+        <card>
+            <name></name>
+            <set picURL="">UNH</set>
+            <color></color>
+            <manacost></manacost>
+            <cmc>20</cmc>
+            <type></type>
+            <pt></pt>
+            <tablerow></tablerow>
+            <text></text>
+            <cipt>0</cipt>
+        </card>
+        -->
+        
+        </cards>
 </cockatrice_carddatabase>
